@@ -1,0 +1,7 @@
+kjlkjlkjjlkjl
+John Hughes,Matthew Broderick,Alan Ruck,Mia Sara,Jeffrey Jones,7.1
+Steven Spielberg,Harrison Ford,Karen Allen,Paul Freeman,John Rhys-Davies,4.7
+Howard Zieff,With Anna Chlumsky,Macaulay Culkin,Dan Aykroyd,Jamie Lee Curtis,8.0
+John Hughes,Matthew Broderick,Alan Ruck,Mia Sara,Jeffrey Jones,6.7
+Howard Zieff,With Anna Chlumsky,Macaulay Culkin,Dan Aykroyd,Jamie Lee Curtis,7.0
+John Hughes,Matthew Broderick,Steven Spielberg,Mia Sara,Jeffrey Jones,8.0

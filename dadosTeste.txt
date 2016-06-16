@@ -1,0 +1,10 @@
+Diretor, Ator1, Ator2, Ator3, Ator4
+Christopher Nolan,Christian Bale,Gary Oldman,Tom Hardy,Joseph Gordon-Levitt
+Christopher Nolan,Christian Bale,Michael Caine,Liam Neeson,Katie Holmes
+Tim Burton,Chris V Evans,Jack Nicholson,Kim Basinger,Robert Wuhl
+Tim Burton,Michael Keaton,Danny DeVito,Michelle Pfeiffer,Christopher Walken
+Anthony (II) Russo,Scarlett Johansson,Gary Oldman,Tom Hardy,Joseph Gordon-Levitt
+Christopher Nolan,Christian Bale,Michael Caine,Liam Neeson,Katie Holmes
+Tim Burton,Michael Keaton,JChris V Evans,Kim Basinger,Robert Wuhl
+Tim Burton,Scarlett Johansson,Danny DeVito,Michelle Pfeiffer,Christopher Walken
+Steven Spielberg,Tom Cruise,Dakota Fanning,Miranda Otto,Danny DeVito
