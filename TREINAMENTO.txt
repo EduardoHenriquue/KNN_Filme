@@ -1,362 +1,570 @@
-Diretor, Ator1, Ator2, Ator3, Ator4, Nota
+Diretor, ator1, ator2, ator3, ator 4, nota
 Piero Costa,Virginia Mayo,Conrado San Martín,Susana Canales,Livio Lorenzon,4.8
 Sergio Corbucci,Franco Nero,Tony Musante,Franco Giacobini,Eduardo Fajardo,7.3
 Simon West,Sylvester Stallone,Jason Statham,Jet Li,Dolph Lundgren,6.7
-Christopher Ray, Zoë Bell, Kristanna Loken, Vivica A. Fox, Brigitte Nielsen, 3.7
-Patrick (III) Hughes, Sylvester Stallone, Jason Statham, Harrison Ford, Arnold Schwarzenegger, 6.1
-Paris Leonti, Robert Fucilla, Kirsty Mitchell, Rob James-Collier, Danny Sapani, 3.6
-José Antonio de la Loma, Jorge Rivero, Maud Adams, Susana Dosamantes, George Peppard, 5.1
-Mel Welles, Ray Danton, Pascale Petit, Günther Stoll, George Rigaud, 5.7
-Roger (II) Watkins, Jamie Gillis, Howard Feline, Dixie Dew, Frederick Rein, 6.7
-Jack Cardiff, Rod Taylor, Yvette Mimieux, Peter Carsten, Jim Brown, 6.9
-Chuck Workman, Stuart Whitman, Robert Vaughn, Woody Strode, Albert Salmi, 4.2
-Eric Louzil, Gene Lebrock, Kellee Bradley, David V Crane, William J. Kulzer, 3.5
-Mario Bonnard, Daniela Rocca, Antonio Cifariello, Yvonne Sanson, Livio Lorenzon, 5.7
-Claude Zidi, Jean-Guy Fechner, Gérard Filipelli, Luis Rego, Gérard Rinaldi, 5.1
-Hélène Angel, Daniel Auteuil, Nicolas Nollet, Sergi López, Emmanuelle Devos, 4.5
-Don E. FauntLeRoy, Steven Seagal, Jacqueline Lord, Roger Guenveur Smith, Luke Goss, 4.1
-Leandro Lucchetti, Vassili Karis, Bruno Bilotta, Maurice Poli, Marlee Foster, 4.7
-Dinos Mavroeidis, Martha Vourtsi, Maro Kodou, Timos Perlegas, Ketty Grigoratou, 5.2
-Karsten Krause, Lisa Arndt, Cora Frost, Kenneth Huber, Odine Johne, 4.2
-Avi Nesher, Olivier Gruner, John Ritter, Robert Culp, Ed Lauter, 5.3
-Ted V. Mikels, Michael Ansara, Francine York, Anthony Eisley, John V Carter, 3.7
-Gillo Pontecorvo, Marlon Brando, Evaristo Márquez, Renato Salvatori, Dana Ghia, 7.5
-Agustín P. Delgado, María Antonieta Pons, Marco Antonio Campos, Gaspar Henaine, Luis Lomelí, 6.9
-Jeremiah Hundley, Danny Trejo, Gary Daniels, Krystal Vee, John Edward Lee, 2.9
-Issa López, Marina de Tavira, Alejandra Gollas, Arturo Barba, Pedro zquierdo, 6.7
-Baccio Bandini, Stewart Granger, Sylva Koscina, Christine Kaufmann, Riccardo Garrone, 5.8
-Hong Lu Wong, Alan English, Paul John, C. Gargett, Nian Watts, 5.9
-Ferdinando Baldi, Dean Reed, Alberto de Mendoza, Annabella ncontrera, Paca Gabaldón, 5.4
-James Parrott, Stan Laurel, Oliver Hardy, Enrique Acosta, Bobby Burns, 6.9
-Joe D'Amato, Rocco Siffredi, Antonella Del Lago, Maria De Sanchez, Ursula Moore, 5.9
-José Antonio Nieves Conde, Manuel Alexandre, Ferdinand Anton, Francisco Bernal, Rafael Calvo Revilla, 7.2
-Shôji Kôkami, Kippei Shîna, Kyoko Fukada, Jun noue, Masatoshi Nakamura, 5.4
-Val Guest, Telly Savalas, Peter Fonda, Hugh O'Brian, Christopher Lee, 5.5
-Sergiu Nicolaescu, Gheorghe Cozorici, Sergiu Nicolaescu, Mircea Albulescu, on Besoiu, 7.7
-Michael D. Moore, Jack Palance, Fernando Lamas, Aldo Ray, Kam Tong, 4.6
-Philippe Mora, Robert Townsend, Olivier Gruner, Nicholas Turturro, Claudia Christian, 3.9
-Jacques Poitrenaud, Roger Hanin, Corinne Marchand, Lila Kedrova, Francis Blanche, 6.2
-Hulusi Orkun Eser, Ali Aslan, Asim Tuncay Aynur, Hasan Bayrak, Halis Bayraktaroglu, 8.0
-Pierre Chevalier, Sybil Danning, Jack Taylor, Karin Schubert, Jean-René Gossart, 3.7
-Riki Shelach Nissimoff, Peter Fonda, Reb Brown, Ron O'Neal, James Mitchum, 4.4
-Mario Siciliano, Antonio Marsina, Ketty Nichols, Tony Raccosta, Louis Walsor, 6.1
-João Correa, Trilla Jorgensen, Claude Huart, Nady Laure, Marcel Portier, 3.8
-Sergio Bergonzelli, Trine Michelsen, Antonio Marsina, Olinka Hardiman, Marzio Honorato, 4.3
-Fernando Cortés, Antonio Espino, Ana Luisa Peluffo, rma Dorantes, Sara García, 6.5
-Duccio Tessari, Rod Steiger, Rosanna Schiaffino, Claude Brasseur, Aldo Giuffrè, 4.6
-Orlando Rojas, Fernándo Bermudez, Carlos Cruz, Juan Luis Galiardo, Francisco Gattorno, 6.5
-Bertrand Retief, Richard Loring, Barry Trengove, Lieb Bester, Ken Hare, 5.4
-Bennett Miller, Brad Pitt, Jonah Hill, Philip Seymour Hoffman, Robin V Wright, 7.6
-Marc Forster, Billy Bob Thornton, Halle Berry, Taylor Simpson, Gabrielle Witcher, 7.1
-Brett Ratner, Chris Tucker, Charlie Sheen, Heather Locklear, Elise Neal, 6.1
-John Woo, Kim-Wan Chan, Ching Po Chang, Chun Ying Chang, Chi-Shen Chung, 5.3
-Scott Zakarin, Tim Pilleri, Tarah DeSpain, Levin O'Connor, Katie Halchishick, 3.8
-James Scott, Robert Lindsay, Molly Ringwald, Marianne Price, Jeffrey Robert, 5.2
-Artie Mandelberg, Julianne Phillips, A Martinez, Nigel Bennett, Nancy Warren, 6.2
-Lee (VI) Murphy, Rachel Shenton, Cliff Heaton, Joseph V Kerr, Katya Greer, 6.0
-Allen Funt, Muhammad Ali, David McHarris, Marian Mercer, Henny Youngman, 5.5
-Kon Ichikawa, Shintarô Katsu, Chiemi Eri, Eiji Funakoshi, Jun Hamamura, 6.4
-Aram Hekinian, Aram Hekinian, Dasri Naimji, Mathieu Reboul, Renata Batista, 7.6
-Jenö Csepreghy, Margit Dajka, Éva Szörényi, Gyula Csortos, Gerö Mály, 5.4
-D.W. Griffith, Charles nslee, George Gebhardt, Arthur V. Johnson, Mack Sennett, 5.9
-James (IV) Wong, Justin Chatwin, Yun-Fat Chow, Emmy Rossum, Jamie Chung, 2.7
-Umberto Lenzi, Martine Brochard, John Richardson, nes Pellegrini, Andrés Mejuto, 5.8
-Joseph Ruben, Wesley Snipes, Woody Harrelson, Jennifer Lopez, Robert Blake, 5.6
-Pasquale Festa Campanile, Renato Pozzetto, Ornella Muti, Piero Mazzarella, Patrizia Fontana, 5.9
-Urs Egger, Heiner Lauterbach, Franka Potente, Frank Giering, Caroline Goodall, 6.4
-Rawson Marshall Thurber, Vince Vaughn, Christine Taylor, Ben Stiller, Rip Torn, 6.7
-Ernst Marischka, Johannes Heesters, Hertha Feiler, Josef Meinrad, Sonja Ziemann, 6.7
-Géza von Bolváry, Paul Hörbiger, Marte Harell, Will Dohm, Heli Finkenzeller, 6.6
-Robert Bresson, Christian Patey, Vincent Risterucci, Caroline Lang, Sylvie Van den Elsen, 7.5
-Ago-Endrik Kerge, Elle Kull, Aarne Üksküla, Merle Talvik, Jüri Krjukov, 7.7
-Veiko Õunpuu, Rain Tolk, Taavi Eelmaa, Juhan Ulfsak, Sulevi Peltola, 7.3
-John Human, Johnny Acero, Marlon Vasgavi, Margarita Palacio, Oscar Escobar, 6.3
-Frank Capra, Walter Huston, Pat O'Brien, Kay Johnson, Constance Cummings, 7.5
-Jim Enright, Tom Byron, Cal Jammer, Eric Price, Sabrina Dawn, 6.6
-Roman Polanski, Jack MacGowran, Alfie Bass, Jessie Robins, Sharon Tate, 7.3
-Ahmed Agrama, Bob Papenbrook, Jamie V Johnston, Barry Stigler, Stephen Apostolina, 7.7
-Richard Fleischer, Eddie Deezen, Wendy Sherman, Rick Overton, Mona Lyden, 4.8
-Ivan Reitman, Bill Murray, Harvey Atkin, Kate Lynch, Russ Banham, 6.2
-Martín Rosete, Jamie Bamber, Gonzalo Bouza, llya Konstantin, Kit Lang, 8.1
-Steven Hilliard Stern, Eric Stoltz, Maryam d'Abo, Bruno Cremer, Mario Adorf, 5.5
-Frank D. Gilroy, Roy Scheider, Sonia Braga, Jon Polito, Carmine Caridi, 5.7
-Siva Nageshwara Rao, Jayasudha, Chinna, J.D. Chakravarthi, Paresh Raval, 7.1
-Danny Deprez, Martje Ceulemans, Ernst Löw, Jonas De Ro, Michael Pas, 5.4
-John Woo, Richard Ng, Ricky Hui, Angie Chiu, Ying Cheung, 6.1
-Ryong Wang, Seong-tae Heo, Ju-hie Lee, Min-seok Jang, Lee Kye-Yeong, 6.6
-Gerard Damiano, Harry Reems, Andrea True, Tina Russell, Marc Stevens, 6.2
-Doris Dörrie, Billie Zöckler, Uwe Ochsenknecht, Sybille Waury, Fabian Koerner, 5.5
-Claudio Antonini, Laura Morante, Umberto Morelli, Antonio Catania, Massimo Ciavarro, 6.6
-San Banarje, Trisha Ray, Mikhail Sebastian, Brice Poisson, Jason XV Bell, 7.2
-Barbara Ricci, Mario Bosco, Bern Cohen, Kelvin Davis, Vinny De Vingo, 7.7
-Jing Wong, Ching-Ying Lam, Jing Wong, Sandra Kwan Yue Ng, Chingmy Yau, 5.7
-Philippe Galland, Sami Bouajila, Sophie Aubry, Martin Lamotte, sabelle Petit-Jacques, 6.0
-Brad Armstrong, Jessica Drake, Carmen Hart, Jasmine Byrne, Jenaveve Jolie, 6.8
-Jayaraaj Vijay, ndrans, Jayakumar, Bhagath Baby Manuel, Venu Nariyapuram, 3.8
-Andrei Blaier, on Bodeanu, Andrei Codarcea, Sandu Sticlaru, on Ulmeni, 6.7
-James B. Harris, Wesley Snipes, Dennis Hopper, Lolita Davidovich, Viggo Mortensen, 4.9
-Henri Pachard, Flame, Patricia Kennedy, Tiara, Valhalla, 5.3
-Philipp (II) Enders, Fahrusha, Philipp Enders, Michael Brand-Bam, Daniela Bette, 7.5
-Bigas Luna, Javier Bardem, Maria de Medeiros, Maribel Verdú, Elisa Tovati, 6.2
-Kenji Mizoguchi, Kasuke Koizumi, Kan'ichi Tani, Midori Komatsu, Matsuko Senoo, 7.6
-Pip Brain, Clive Allen, Jim Beglin, Ned Boulting, Gabriel Clarke, 6.0
-Kristoffer Metcalfe, Kåre Hedebrant, Harald William Borg Weedon, Eira Stuedahl, sak Nikolai veland Solli, 5.0
-Antonio A. Farré, Claudio Abbado, Carlos Bernabé, José Carreras, Plácido Domingo, 8.7
-Lloyd Kaufman, Jim Harris, Jennifer Hetrick, Rick Gitlin, Helen Campitelli, 4.2
-Miklós Lente, Foster Brooks, Mike MacDonald, Konnie Krome, Milan Cheylov, 4.9
-Even Hafnor, Alexander de Senger, Arne Vilhelm Tellefsen, Line Marie Østerhus, Delia Borcoman, 7.8
-Donald (II) Bull, Senta Moses Mikan, David Allen Brooks, Matt Price, Cece Tsou, 5.8
-Drew (II) Morris, Vince DeGaetano, Aaron Fronk, Jake Andrews, Cooper Johnson, 3.2
-Katie Teague, Marga Laube, Lynne Twist, Vandana Shiva, Orland Bishop, 7.5
-Ger Poppelaars, Frits Lambrechts, Marjolein Meijers, Cees Geel, Dimme Treurniet, 7.8
-Alfonso Rodríguez, Luis Jose Lopez, Hemky Madera, Marlene Favela, Marcos Bonetti, 4.9
-Art (II) Jones, John V Wolfe, Tom Oppenheim, Gregory Wolfe, James Wolfe, 6.3
-Ray Etheridge, William Charles Bresch, Lucas Bush, Patrick Campion, Gilbert Cannatella, 3.8
-Petr Nikolaev, Filip Brezina, Jakub Burýsek, Hynek Cermák, Filip Dvorák, 4.1
-Dan Consiglio, Larry Joe Campbell, Keegan-Michael Key, Johnny Ray Meeks, Danny McCarthy, 8.7
-Brad Armstrong, Brad Armstrong, Ryan Driller, Erik Everhard, Seth Gamble, 8.2
-Inon Shampanier, Shawn Reaves, Howard S. Miller, Joe Kaprielian, Sadie Alexandru, 8.3
-Toon Wang, Han-Ya Liu, Kuei-Mei Yang, Matthew Yen-Shen Tsai, Chia-chia Peng, 5.2
-Denis Dercourt, Vincent Perez, Jérémie Renier, Aurélien Recoing, Anne Marivin, 6.7
-Elizabeth Spear, James Teems, Starina Johnson, John Merriman, Shawn Kohne, 8.6
-Nicholas Tucker, Mark Hefti, Adam Lucas Smith, Mark E. Allen, Rachel London, 9.4
-Erle C. Kenton, Bud Abbott, Lou Costello, Grace McDonald, Cecil Kellaway, 7.6
-Mark Punt, Wim Opbrouck, Peter Van den Begin, Jonas Van Geel, Nathalie Meskens, 5.8
-Kari Skogland, Vanessa V Williams, Gil Bellows, Karen V Williams, Lisa Bronwyn Moore, 6.3
-Daniele Ciprì, Sergio Castellitto, Rocco Papaleo, Valeria Bruni Tedeschi, Jacopo Cullin, 5.7
-Paul Andresen, Violent J, Shaggy 2 Dope, Krista Kalmus, Lindsay Anne Hugghins, 7.2
-Ryan Richmond, Terri Abney, Aunjanue Ellis, James Whalen, Victoria V Wallace, 6.4
-Sam Newfield, Hugh Beaumont, Frances Rafferty, Harlan Warde, Cecil Weston, 6.4
-John Sjogren, Chad McQueen, Don Swayze, Joe Estevez, Sydney Lassick, 5.2
-Brad Armstrong, Brad Armstrong, Johnny Castle, Tommy Gunn, Jerry V, 8.2
-Michael Fredianelli, Ray Medved, Marcus D. Spencer, Steve Budd, Zoe Winter, 7.6
-D.P. Carlson, Michael Leo Pomeranz, Jessica Szohr, Kevin Chevalia, Will Malnati, 9.2
-Robert Michael Lewis, E.G. Marshall, Mildred Natwick, Alejandro Rey, Cleavon Little, 7.4
-William S. Hart, William S. Hart, Jane Novak, Herschel Mayall, Winter Hall, 4.8
-Joseph M. Newman, Alan Dinehart, Paul Guilfoyle, John Butler, Addison Richards, 6.6
-Jules White, Andy Clyde, Shemp Howard, Vernon Dent, Lynton Brent, 6.7
-Virginia L. Stone, Jack Kruschen, Meegan King, David Wallace, Phillip Pine, 6.4
-Roger Mende, David Carradine, Camille Solari, Michael Madsen, Matthew Arthur, 6.1
-Mihalis Kakogiannis, Katharine Hepburn, Vanessa Redgrave, Geneviève Bujold, rene Papas, 7.1
-Alfred Hitchcock, Carole Lombard, Robert Montgomery, Gene Raymond, Jack Carson, 6.5
-Ludwig Berger, Renate Müller, Willy Fritsch, Paul Hörbiger, Anton Walbrook, 6.9
-Jacques Tourneur, Keith Larsen, Buddy Ebsen, Don Burnett, Lisa Gaye, 5.1
-Steven Spielberg, Tom Cruise, Dakota Fanning, Miranda Otto, Justin Chatwin, 6.5
-Juan Piquer Simón, Pierre Oudrey, Carole James, Frank Braña, Mariano Vidal Molina, 5.0
-Roger Spottiswoode, Matthew Modine, Alan Alda, Patrick Bauchau, Nathalie Baye, 7.8
-Byron Haskin, Gene Barry, Ann Robinson, Les Tremayne, Robert Cornthwaite, 7.2
-David Greene, David Soul, Brian Keith, Cathy Lee Crosby, Jeroen Krabbé, 6.6
-William A. Seiter, Fred MacMurray, Claire Trevor, Raymond Burr, José Torvay, 6.1
-Jun Fukuda, Kensaku Morita, Yûko Asano, Ryô kebe, Masaya Oki, 5.0
-Joaquim Pedro de Andrade, Lima Duarte, Joffre Soares, Carmem Silva, Carlos Gregório, 6.9
-Pedro Caldas, Francisco Belard, Maria Leite, Catarina Wall, Pedro M. Ruivo, 6.4
-Nikos Papatakis, Olga Karlatos, Roland Bertin, Philippe Adrien, Mehmet Ulusoy, 6.6
-Piotr Szulkin, Roman Wilhelmi, Krystyna Janda, Mariusz Dmochowski, Jerzy Stuhr, 7.1
-Roy Del Ruth, Warren William, Loretta Young, Wallace Ford, Alice White, 7.3
-Jim Reynolds, Moana Pozzi, lona Staller, Miss Pomodoro, dò Haver, 7.0
-Luigi Acquisto, rim Tolentino, Augusta Soares, José da Costa, Osme Gonsalves, 6.3
-Rafael Gil, Claude Laydu, Francisco Rabal, José Marco Davó, Fernando Sancho, 7.1
-William Nigh, Anna May Wong, Harold Huber, Mae Clarke, Rick Vallin, 5.7
-Brian De Palma, Tom Cruise, Jon Voight, Emmanuelle Béart, Henry Czerny, 7.1
-Brad Bird, Tom Cruise, Paula Patton, Simon Pegg, Jeremy Renner, 7.4
-J.J. Abrams, Tom Cruise, Philip Seymour Hoffman, Ving Rhames, Billy Crudup, 6.9
-John Woo, Tom Cruise, Dougray Scott, Thandie Newton, Ving Rhames, 6.1
-Christopher McQuarrie, Tom Cruise, Jeremy Renner, Simon Pegg, Rebecca Ferguson, 7.5
-Emilie Deleuze, Axel Auriant-Blot, Philippe Duquesne, Alex Lutz, Nathan Melloul, 6.8
-Joseph Kuo, Li Ching, Hung Lieh Chen, Nan Chiang, Chun Erh, 4.4
-Ron Jeremy, Aja, Stella Star, Busty Belle, Tiger Lillie, 6.3
-António-Pedro Vasconcelos, Victória Guerra, José Mata, Soraia Chaves, Ricardo Pereira, 6.0
-Jeffrey Reiner, Shannen Doherty, Max Martini, Julian McMahon, Courtney Kidd, 6.1
-J.A. Bayona, Naomi Watts, Ewan McGregor, Tom X Holland, Samuel Joslin, 7.6
-Gianfranco (II) Romagnoli, Horst Baron, Lauro Giotto, Frank Gun, Nick Lang, 6.2
-Andrew Fleming, Michael Douglas, Michael Bodnar, Vladimir Radian, Robin Tunney, 5.7
-Antonio Santillán, Beni Deus, Arturo Fernández, Estanis González, Luis nduni, 5.5
-Katsuhide Motoki, Kuranosuke Sasaki, Kyoko Fukada, Tsuyoshi hara, Masahiko Nishimura, 6.3
-Paul Bartel, Brad Trumbull, Tim Conway, Jack Weston, Harvey Korman, 5.4
-Silver Chung, Jeff Chin, Bernard Hiew, Jack Lim, Keat Yoke Chen, 6.0
-Cho Sin Jung, n-seong Jo, Sa-rang Kim, Hyeong-jin Kong, Yeong-ran Heo, 4.8
-Guy Casaril, Anicée Alvina, Nicole Courcel, Venantino Venantini, Jean Martin, 5.4
-Christian Rost, Renate Foidl, Annemari Kuti, Bettina Gaupmann, Bianca Pokorny, 8.1
-Gianfranco (II) Romagnoli, Mike Foster, Choky ce, Nick Lang, Zenza Raggi, 6.4
-Jesús Martínez Nota, Antonio Albujer, Jimmy Jiménez, Manu Reyes, José Ruiz Monty, 7.4
-Rafael Gil, Paquita Rico, Manolo Morán, Miguel Gila, Julio Núñez, 6.4
-Nat Baer, Raymond Alverado, James Cullen Bressack, Bennett Schulberg, Roman Johnson, 8.8
-Gabriel Tupinambá, Saulo Arcoverde, Henrique Botkay, Jorge Caetano, Erom Cordeiro, 7.4
-Joseph Kosinski, Tom Cruise, Morgan Freeman, Olga Kurylenko, Andrea Riseborough, 7.0
-Sam Irvin, Richard Joseph Paul, Jackie Swanson, Andrew Divoff, Meg Foster, 5.3
-Zeresenay Mehari, Meron Getnet, Tizita Hagere, Abel Abebe, Genene Alemu, 6.7
-Austin Andrews, David Adie, Lee Cameron, David X Grant, Harris Hart, 6.3
-Galo Semblantes, Aleksander Ristic, Corley Henderson, Nathan Malone, Brandon Mhoon, 8.1
-Heather (VII) Robinson, James Duval, Neil Willoughby, Tawny Amber Young, April Washko, 7.7
-Marco (II) Chiavarelli, Leslie Batiste, Camila Campos Katz, Hannah Driscoll, George V Georgiou, 6.0
-Shinsuke Sato, Christine Marie Cabanos, Patrick Seitz, Julie Maddalena, Julie Ann Taylor, 7.0
-Hugo del Carril, Laura Hidalgo, Hugo del Carril, Pedro Laxalt, Eduardo Rudy, 7.8
-Abbas Rafei, Sareh Bayat, Amin Zendegani, Shahin Taslimi, Jila Alershad, 7.6
-Michale Boganim, Olga Kurylenko, Andrzej Chyra, lya osifov, Sergey Strelnikov, 6.5
-Chantal Akerman, Paul Amar, Robert Badinter, Guy Bedos, Henri Cartier-Bresson, 7.0
-Harutyun Khachatryan, Rouben Hakhverdian, V. Ananyan, R. Stepanyan, L. Avetisyan, 4.1
-Jason (IX) Hawkins, Dara Davey, Natasha Timpani, Simon XV Scott, Sam Brittan, 4.4
-Robert B. Churchill, Burt Lancaster, Shigeko Sasamori, Kosta Tsipis, Victor W. Sidel, 7.2
-David Flores, Morena Baccarin, Adam Baldwin, Victor Webster, George Kennedy, 3.6
-Paul (II) Morrison, Sam Smith, Leagh Conwell, Dominic Barklem, Jo Stone-Fewings, 7.1
-Tom DiCillo, Steve Buscemi, Catherine Keener, Dermot Mulroney, Danielle von Zerneck, 7.6
-Don Coscarelli, A. Michael Baldwin, Reggie Bannister, Bill Thornbury, Heidi Marnhout, 5.7
-Umberto Lenzi, Maurizio Merli, John Saxon, Barry Sullivan, Elio Zamuto, 7.2
-Charles Haine, Sterling Beaumon, Dax Speakman, Jeremy Davidson, Nicole Ansari-Cox, 7.2
-Rob Cohen, Paul Walker, Vin Diesel, Michelle Rodriguez, Jordana Brewster, 6.7
-Justin (II) Lin, Vin Diesel, Paul Walker, Jordana Brewster, Michelle Rodriguez, 6.6
-James Wan, Vin Diesel, Paul Walker, Jason Statham, Michelle Rodriguez, 7.3
-Busby Berkeley, Franchot Tone, Ann Sothern, Ruth Hussey, Lee Bowman, 6.2
-Melville W. Brown, Reginald Denny, Barbara Worth, Claude Gillingwater, Armand Kaliz, 3.5
-Norman Taurog, Lige Conley, Otto Fries, Ruth Hiatt, John Rand, 5.4
-Charles Lamont, Daphne Pollard, Norma Drew, Walter Merrill, Billy Gilbert, 5.4
-Justin (II) Lin, Vin Diesel, Paul Walker, Dwayne Johnson, Jordana Brewster, 7.2
-Justin (II) Lin, Vin Diesel, Paul Walker, Jordana Brewster, Tyrese Gibson, 7.3
-John Singleton, Paul Walker, Tyrese Gibson, Eva Mendes, Cole Hauser, 5.8
-Jim (II) Powers, Nick East, Mickey G., Dave Hardman, Rafe, 6.8
-Justin (II) Lin, Lucas Black, Damien Marzette, Trula M. Marcus, Zachery Ty Bryan, 6.0
-John Ireland, John reland, Dorothy Malone, Bruce Carlisle, ris Adrian, 5.3
-Jason Friedberg, Alex Ashbaugh, Dale Pavinski, Lili Mirojnick, Andrea Navedo, 4.0
-David Betances, Melina Lizette, Kenyetta Lethridge, Steven Bauer, Olivia Brown, 3.6
-Léa Pool, Piper Perabo, Jessica Paré, Mischa Barton, Jackie Burroughs, 7.0
-Edwin L. Marin, Robert Montgomery, Rosalind Russell, Reginald Owen, Ralph Morgan, 6.2
-Laurent Bouzereau, John Carpenter, Bill Phillips, Richard Kobritz, Keith Gordon, 5.8
-Gordon Parry, Stanley Holloway, Kay Kendall, Brian Reece, Joan Young, 5.8
-Fred C. Newmeyer, Miriam Hopkins, Carole Lombard, Frank Morgan, Charles Starrett, 6.6
-Cristian E. Gutierrez, Ali Blaze, Samuel Bocock, Jermaine Brantley, Neil Brown Jr., 6.6
-György Szomjas, János Derzsi, Margó Kiwán, ldi Deim, Péter Andorai, 6.0
-Tim Oliehoek, Jack Wouterse, Kurt Rogiers, Bracha van Doesburgh, Jaak Van Assche, 6.2
-Choon-sik Kim, Joo-hyun Jo, Se-hong Jeon, Gwang-il Lee, Tae-seong Park, 5.8
-Carlo Lastricati, Gina Lollobrigida, Vittorio De Sica, Dale Robertson, Amedeo Nazzari, 6.1
-Sidney J. Furie, Casper Van Dien, Danielle Brett, Joseph Griffin, Catherine Oxenberg, 3.1
-Mathias Fain, Josh Laster, Elvis Winterbottom, Blaine Saunders, Andy Martinez Jr., 7.0
-John (III) Clark, Terry Serio, Deborah Conway, Max Cullen, Richard Moir, 5.9
-Harvey S. Laidman, James Brolin, Rip Torn, Jennifer Warren, Melanie Griffith, 5.4
-Kyle Leighton Dresser, Merik Tadros, Justin Zaccaria, Anya Avaeva, nes Dali, 8.3
-Brian Large, Marilyn Horne, Susan Patterson, Kathleen Kuhlmann, Sandra Walker, 7.4
-Steven Hilliard Stern, Carrie Snodgress, Dick Shawn, Edie Adams, Jed Allan, 6.9
-Kurt Neumann, Tom Brown, Maureen O'Sullivan, James Gleason, Andy Devine, 7.8
-Daniel Hogg, Evan Fabri, Geoff Melnychuk, Heidi V Smith, Mitch Holloway, 5.1
-Paul Henreid, Mary Murphy, Norma Eberhardt, Mike Connors, Sheridan Comerate, 6.6
-Dave Schram, Abbey Hoes, Ko Zandvliet, Mingus Dagelet, Juliet Daalder, 4.9
-Kamal Ahmed, Stuart Rudin, Nick Ramus, Jim Fletcher, William Smith, 3.5
-Jeff Centauri, Dale DaBone, Noname Jane, Voodoo, Andre McCoy, 4.4
-Phillip Dye, Jackie Chan, Greg O'Neil, Chris Tucker, Brett Ratner, 7.0
-Vjekoslav Katusin, Vjekoslav Katusin, Fred Eckhardt, Julia Liebeck, Steffen Probst, 8.5
-Pasquale Marrazzo, Giovanni Brignola, Gabrielle Scharnitzky, Elisabetta D'Arco, Rainer Winkelvoss, 5.4
-Tim Everitt, Simon Rhee, Arlene Montano, Phillip Rhee, Howard Jackson, 5.4
-Shan-Hsi Ting, Yu Wang, Hsiao-Chuang Kuo, Paul Chang, Yeh Tien, 4.9
-Malcolm St. Clair, Constance Talmadge, Bryant Washburn, Alice White, Paulette Duval, 6.3
-Tim Postins, Vin Diesel, Tyrese Gibson, Dwayne Johnson, Sung Kang, 8.4
-Malik Chibane, Shemss Audat, Frédéric Diefenthal, Lââm, Flore Vannier-Moreau, 6.5
-Kenneth Branagh, Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins, 7.0
-Eric Red, Mariel Hemingway, Michael Paré, Mason Gamble, Ken Pogue, 5.7
-Alan Taylor, Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins, 7.1
-Michael Ninn, Marco Banderas, Tony DeSergio, Jerry V, Nick Manning, 7.8
-Neil (XII) Thompson, D.J. Cashmere, Mario DeGasperi, Alexander DiPersia, Richard Leighton, 7.3
-Julie Delpy, Julie Delpy, Daniel Brühl, William Hurt, Anamaria Marinca, 6.3
-Juraj Jakubisko, Anna Friel, Karel Roden, Vincent Regan, Hans Matheson, 6.0
-Andrei Konst, Lucas Bond, Pavel Derevyanko, Paul Octavian Diaconescu, Vladimir Grosu, 3.2
-Brian (II) Topping, Lars Woods, Ella Bowman, Julie Dreyfus, Melissa Reneé Martin, 7.9
-Ryan Wise, Jon Mikl Thor, Mike Favata, Steve XV Price, Rusty Hamilton, 7.0
-Hal Kanter, Dan Rowan, Dick Martin, Martha Hyer, Leif Erickson, 6.2
-K. Raghavendra Rao, Dilip Kumar, Jeetendra, Sridevi, Pran, 6.6
-Peter McWilliams, John Bassberger, Bette Midler, John Greenberg, James XX Harrison, 6.5
-Jason (III) Hooper, Charles V Myers, Marc Coats, Daniel Dechaine, Scott Ferguson Greene, 6.3
-Harry Moses, Glynn Turman, Vincent Gardenia, Craig Wasson, Howard E. Rollins Jr., 6.4
-Radu Mihai, Pavle Cemerikic, Nebojsa Glogovac, Remus Margineanu, Serban Pavlu, 6.6
-Tim Burton, Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl, 7.6
-Lambert Hillyer, Lewis Wilson, Douglas Croft, J. Carrol Naish, Shirley Patterson, 6.6
+Christopher Ray,Zoë Bell,Kristanna Loken,Vivica A. Fox,Brigitte Nielsen,3.7
+Patrick (III) Hughes,Sylvester Stallone,Jason Statham,Harrison Ford,Arnold Schwarzenegger,6.1
+ParisLeonti,Robert Fucilla,Kirsty Mitchell,Rob James-Collier,Danny Sapani,3.6
+José Antonio dela Loma,Jorge Rivero,Maud Adams,Susana Dosamantes,George Peppard,5.1
+Mel Welles,Ray Danton,Pascale Petit,Günther Stoll,George Rigaud,5.7
+Roger (II) Watkins,Jamie Gillis,Howard Feline,Dixie Dew,Frederick Rein,6.7
+Jack Cardiff,Rod Taylor,Yvette Mimieux,Peter Carsten,Jim Brown,6.9
+Chuck Workman,Stuart Whitman,Robert Vaughn,Woody Strode,Albert Salmi,4.2
+Eric Louzil,Gene Lebrock,Kellee Bradley,David V Crane,William J. Kulzer,3.5
+Mario Bonnard,Daniela Rocca,Antonio Cifariello,Yvonne Sanson,Livio Lorenzon,5.7
+Claude Zidi,Jean-Guy Fechner,Gérard Filipelli,Luis Rego,Gérard Rinaldi,5.1
+Hélène Angel,Daniel Auteuil,Nicolas Nollet,Sergi López,Emmanuelle Devos,4.5
+DonE. FauntLeRoy,Steven Seagal,Jacqueline Lord,Roger Guenveur Smith,Luke Goss,4.1
+Leandro Lucchetti,Vassili Karis,Bruno Bilotta,Maurice Poli,Marlee Foster,4.7
+Dinos Mavroeidis,Martha Vourtsi,Maro Kodou,Timos Perlegas,Ketty Grigoratou,5.2
+Karsten Krause,Lisa Arndt,Cora Frost,Kenneth Huber,Odine Johne,4.2
+Avi Nesher,Olivier Gruner,John Ritter,Robert Culp,Ed Lauter,5.3
+TedV. Mikels,Michael Ansara,Francine York,Anthony Eisley,John V Carter,3.7
+Gillo Pontecorvo,Marlon Brando,Evaristo Márquez,Renato Salvatori,Dana Ghia,7.5
+Agustín P. Delgado,María Antonieta Pons,Marco Antonio Campos,Gaspar Henaine,Luis Lomelí,6.9
+Jeremiah Hundley,Danny Trejo,Gary Daniels,Krystal Vee,John EdwardLee,2.9
+Issa López,Marinade Tavira,Alejandra Gollas,Arturo Barba,Pedro zquierdo,6.7
+Baccio Bandini,Stewart Granger,Sylva Koscina,Christine Kaufmann,Riccardo Garrone,5.8
+Hong Lu Wong,Alan English,Paul John,C. Gargett,Nian Watts,5.9
+Ferdinando Baldi,Dean Reed,Albertode Mendoza,Annabella ncontrera,Paca Gabaldón,5.4
+James Parrott,Stan Laurel,Oliver Hardy,Enrique Acosta,Bobby Burns,6.9
+Joe D'Amato,Rocco Siffredi,Antonella Del Lago,Maria De Sanchez,Ursula Moore,5.9
+José Antonio Nieves Conde,Manuel Alexandre,Ferdinand Anton,Francisco Bernal,Rafael Calvo Revilla,7.2
+Shôji Kôkami,Kippei Shîna,Kyoko Fukada,Junnoue,Masatoshi Nakamura,5.4
+Val Guest,Telly Savalas,Peter Fonda,Hugh O'Brian,Christopher Lee,5.5
+Sergiu Nicolaescu,Gheorghe Cozorici,Sergiu Nicolaescu,Mircea Albulescu,on Besoiu,7.7
+Michael D.Moore,Jack Palance,Fernando Lamas,Aldo Ray,Kam Tong,4.6
+Philippe Mora,Robert Townsend,Olivier Gruner,Nicholas Turturro,Claudia Christian,3.9
+Jacques Poitrenaud,Roger Hanin,Corinne Marchand,Lila Kedrova,Francis Blanche,6.2
+Hulusi OrkunEser,Ali Aslan,Asim Tuncay Aynur,Hasan Bayrak,Halis Bayraktaroglu,8.0
+Pierre Chevalier,Sybil Danning,Jack Taylor,Karin Schubert,Jean-René Gossart,3.7
+RikiShelach Nissimoff,Peter Fonda,Reb Brown,Ron O'Neal,James Mitchum,4.4
+Mario Siciliano,Antonio Marsina,Ketty Nichols,Tony Raccosta,Louis Walsor,6.1
+João Correa,Trilla Jorgensen,Claude Huart,Nady Laure,Marcel Portier,3.8
+Sergio Bergonzelli,Trine Michelsen,Antonio Marsina,Olinka Hardiman,Marzio Honorato,4.3
+Fernando Cortés,Antonio Espino,AnaLuisa Peluffo,rma Dorantes,Sara García,6.5
+Duccio Tessari,Rod Steiger,Rosanna Schiaffino,Claude Brasseur,Aldo Giuffrè,4.6
+Orlando Rojas,Fernándo Bermudez,Carlos Cruz,JuanLuis Galiardo,Francisco Gattorno,6.5
+Bertrand Retief,Richard Loring,Barry Trengove,Lieb Bester,Ken Hare,5.4
+Bennett Miller,Brad Pitt,Jonah Hill,Philip Seymour Hoffman,Robin V Wright,7.6
+Marc Forster,Billy Bob Thornton,Halle Berry,Taylor Simpson,Gabrielle Witcher,7.1
+Brett Ratner,Chris Tucker,Charlie Sheen,Heather Locklear,Elise Neal,6.1
+John Woo,Kim-Wan Chan,Ching Po Chang,Chun Ying Chang,Chi-Shen Chung,5.3
+Scott Zakarin,Tim Pilleri,Tarah De Spain,Levin O'Connor,Katie Halchishick,3.8
+James Scott,Robert Lindsay,Molly Ringwald,Marianne Price,Jeffrey Robert,5.2
+Artie Mandelberg,Julianne Phillips,A Martinez,Nigel Bennett,Nancy Warren,6.2
+Lee (VI) Murphy,Rachel Shenton,Cliff Heaton,Joseph VKerr,Katya Greer,6.0
+Allen Funt,Muhammad Ali,David McHarris,Marian Mercer,Henny Youngman,5.5
+Kon Ichikawa,Shintarô Katsu,Chiemi Eri,Eiji Funakoshi,Jun Hamamura,6.4
+Aram Hekinian,Aram Hekinian,Dasri Naimji,Mathieu Reboul,Renata Batista,7.6
+Jenö Csepreghy,Margit Dajka,Éva Szörényi,Gyula Csortos,Gerö Mály,5.4
+D.W. Griffith,Charles nslee,George Gebhardt,Arthur V. Johnson,Mack Sennett,5.9
+James (IV) Wong,Justin Chatwin,Yun-Fat Chow,Emmy Rossum,Jamie Chung,2.7
+Umberto Lenzi,Martine Brochard,John Richardson,nes Pellegrini,Andrés Mejuto,5.8
+Joseph Ruben,Wesley Snipes,Woody Harrelson,Jennifer Lopez,Robert Blake,5.6
+Pasquale Festa Campanile,Renato Pozzetto,Ornella Muti,Piero Mazzarella,Patrizia Fontana,5.9
+Urs Egger,Heiner Lauterbach,Franka Potente,Frank Giering,Caroline Goodall,6.4
+Rawson Marshall Thurber,Vince Vaughn,Christine Taylor,Ben Stiller,Rip Torn,6.7
+Ernst Marischka,Johannes Heesters,Hertha Feiler,Josef Meinrad,Sonja Ziemann,6.7
+Gézavon Bolváry,Paul Hörbiger,Marte Harell,Will Dohm,Heli Finkenzeller,6.6
+Robert Bresson,Christian Patey,Vincent Risterucci,Caroline Lang,Sylvie VandenElsen,7.5
+Ago-Endrik Kerge,Elle Kull,Aarne Üksküla,Merle Talvik,Jüri Krjukov,7.7
+Veiko Õunpuu,Rain Tolk,Taavi Eelmaa,Juhan Ulfsak,Sulevi Peltola,7.3
+John Human,Johnny Acero,Marlon Vasgavi,Margarita Palacio,Oscar Escobar,6.3
+Frank Capra,Walter Huston,Pat O'Brien,Kay Johnson,Constance Cummings,7.5
+Jim Enright,Tom Byron,Cal Jammer,Eric Price,Sabrina Dawn,6.6
+Roman Polanski,Jack MacGowran,Alfie Bass,Jessie Robins,Sharon Tate,7.3
+Ahmed Agrama,Bob Papenbrook,Jamie V Johnston,Barry Stigler,Stephen Apostolina,7.7
+Richard Fleischer,Eddie Deezen,Wendy Sherman,Rick Overton,Mona Lyden,4.8
+Ivan Reitman,Bill Murray,Harvey Atkin,Kate Lynch,Russ Banham,6.2
+Martín Rosete,Jamie Bamber,Gonzalo Bouza,llya Konstantin,Kit Lang,8.1
+Steven Hilliard Stern,Eric Stoltz,Maryam d'Abo,Bruno Cremer,Mario Adorf,5.5
+Frank D. Gilroy,Roy Scheider,Sonia Braga,Jon Polito,Carmine Caridi,5.7
+Siva Nageshwara Rao,Jayasudha,Chinna,J.D. Chakravarthi,Paresh Raval,7.1
+Danny Deprez,Martje Ceulemans,Ernst Löw,Jonas De Ro,Michael Pas,5.4
+John Woo,Richard Ng,Ricky Hui,Angie Chiu,Ying Cheung,6.1
+Ryong Wang,Seong-tae Heo,Ju-hie Lee,Min-seok Jang,Lee Kye-Yeong,6.6
+Gerard Damiano,Harry Reems,Andrea True,Tina Russell,Marc Stevens,6.2
+Doris Dörrie,Billie Zöckler,Uwe Ochsenknecht,Sybille Waury,Fabian Koerner,5.5
+Claudio Antonini,Laura Morante,Umberto Morelli,Antonio Catania,Massimo Ciavarro,6.6
+San Banarje,Trisha Ray,Mikhail Sebastian,Brice Poisson,Jason XV Bell,7.2
+Barbara Ricci,Mario Bosco,Bern Cohen,Kelvin Davis,Vinny De Vingo,7.7
+Jing Wong,Ching-Ying Lam,Jing Wong,Sandra Kwan Yue Ng,Chingmy Yau,5.7
+Philippe Galland,Sami Bouajila,Sophie Aubry,Martin Lamotte,sabelle Petit-Jacques,6.0
+Brad Armstrong,Jessica Drake,Carmen Hart,Jasmine Byrne,Jenaveve Jolie,6.8
+Jayaraaj Vijay,ndrans,Jayakumar,Bhagath Baby Manuel,Venu Nariyapuram,3.8
+Andrei Blaier,on Bodeanu,Andrei Codarcea,Sandu Sticlaru,on Ulmeni,6.7
+James B. Harris,Wesley Snipes,Dennis Hopper,Lolita Davidovich,Viggo Mortensen,4.9
+Henri Pachard,Flame,Patricia Kennedy,Tiara,Valhalla,5.3
+Philipp (II) Enders,Fahrusha,Philipp Enders,Michael Brand-Bam,Daniela Bette,7.5
+Bigas Luna,Javier Bardem,Maria de Medeiros,Maribel Verdú,Elisa Tovati,6.2
+Kenji Mizoguchi,Kasuke Koizumi,Kan'ichi Tani,Midori Komatsu,Matsuko Senoo,7.6
+Pip Brain,Clive Allen,Jim Beglin,Ned Boulting,Gabriel Clarke,6.0
+Kristoffer Metcalfe,Kåre Hedebrant,Harald William Borg Weedon,Eira Stuedahl,sak Nikolai veland Solli,5.0
+Antonio A. Farré,Claudio Abbado,Carlos Bernabé,José Carreras,Plácido Domingo,8.7
+Lloyd Kaufman,Jim Harris,Jennifer Hetrick,Rick Gitlin,Helen Campitelli,4.2
+Miklós Lente,Foster Brooks,Mike MacDonald,Konnie Krome,Milan Cheylov,4.9
+Even Hafnor,Alexander de Senger,Arne Vilhelm Tellefsen,Line Marie Østerhus,Delia Borcoman,7.8
+Donald (II) Bull,Senta Moses Mikan,David Allen Brooks,Matt Price,Cece Tsou,5.8
+Drew (II) Morris,Vince DeGaetano,Aaron Fronk,Jake Andrews,Cooper Johnson,3.2
+Katie Teague,Marga Laube,Lynne Twist,Vandana Shiva,Orland Bishop,7.5
+Ger Poppelaars,Frits Lambrechts,Marjolein Meijers,Cees Geel,Dimme Treurniet,7.8
+Alfonso Rodríguez,Luis Jose Lopez,Hemky Madera,Marlene Favela,Marcos Bonetti,4.9
+Art (II) Jones,John V Wolfe,Tom Oppenheim,Gregory Wolfe,James Wolfe,6.3
+Ray Etheridge,William Charles Bresch,Lucas Bush,Patrick Campion,Gilbert Cannatella,3.8
+Petr Nikolaev,Filip Brezina,Jakub Burýsek,Hynek Cermák,Filip Dvorák,4.1
+Dan Consiglio,Larry Joe Campbell,Keegan-Michael Key,Johnny Ray Meeks,Danny McCarthy,8.7
+Brad Armstrong,Brad Armstrong,Ryan Driller,Erik Everhard,Seth Gamble,8.2
+Inon Shampanier,Shawn Reaves,Howard S. Miller,Joe Kaprielian,Sadie Alexandru,8.3
+Toon Wang,Han-Ya Liu,Kuei-Mei Yang,Matthew Yen-Shen Tsai,Chia-chia Peng,5.2
+Denis Dercourt,Vincent Perez,Jérémie Renier,Aurélien Recoing,Anne Marivin,6.7
+Elizabeth Spear,James Teems,Starina Johnson,John Merriman,Shawn Kohne,8.6
+Nicholas Tucker,Mark Hefti,Adam Lucas Smith,Mark E. Allen,Rachel London,9.4
+Erle C. Kenton,Bud Abbott,Lou Costello,Grace McDonald,Cecil Kellaway,7.6
+Mark Punt,Wim Opbrouck,Peter Van den Begin,Jonas Van Geel,Nathalie Meskens,5.8
+Kari Skogland,Vanessa V Williams,Gil Bellows,Karen V Williams,Lisa Bronwyn Moore,6.3
+Daniele Ciprì,Sergio Castellitto,Rocco Papaleo,Valeria Bruni Tedeschi,Jacopo Cullin,5.7
+Paul Andresen,Violent J,Shaggy 2 Dope,Krista Kalmus,Lindsay Anne Hugghins,7.2
+Ryan Richmond,Terri Abney,Aunjanue Ellis,James Whalen,Victoria V Wallace,6.4
+Sam Newfield,Hugh Beaumont,Frances Rafferty,Harlan Warde,Cecil Weston,6.4
+John Sjogren,Chad McQueen,Don Swayze,Joe Estevez,Sydney Lassick,5.2
+Brad Armstrong,Brad Armstrong,Johnny Castle,Tommy Gunn,Jerry V,8.2
+Michael Fredianelli,Ray Medved, Marcus D. Spencer,Steve Budd,Zoe Winter,7.6
+D.P. Carlson,Michael Leo Pomeranz,Jessica Szohr,Kevin Chevalia,Will Malnati,9.2
+Robert Michael Lewis,E.G. Marshall,Mildred Natwick,Alejandro Rey,Cleavon Little,7.4
+William S. Hart,William S. Hart,Jane Novak,Herschel Mayall,Winter Hall,4.8
+Joseph M. Newman,Alan Dinehart,Paul Guilfoyle,John Butler,Addison Richards,6.6
+Jules White,Andy Clyde,Shemp Howard,Vernon Dent,Lynton Brent,6.7
+Virginia L. Stone,Jack Kruschen,Meegan King,David Wallace,Phillip Pine,6.4
+Roger Mende,David Carradine,Camille Solari,Michael Madsen,Matthew Arthur,6.1
+Mihalis Kakogiannis,Katharine Hepburn,Vanessa Redgrave,Geneviève Bujold,rene Papas,7.1
+Alfred Hitchcock,Carole Lombard,Robert Montgomery,Gene Raymond,Jack Carson,6.5
+Ludwig Berger,Renate Müller,Willy Fritsch,Paul Hörbiger,Anton Walbrook,6.9
+Jacques Tourneur,Keith Larsen,Buddy Ebsen,Don Burnett,Lisa Gaye,5.1
+Steven Spielberg,Tom Cruise,Dakota Fanning,Miranda Otto,Jusin Chatwin,6.5
+Juan Piquer Simón,Pierre Oudrey,Carole James,Frank Braña,Mariano Vidal Molina,5.0
+Roger Spottiswoode,Matthew Modine,Alan Alda,Patrick Bauchau,Nathalie Baye,7.8
+Byron Haskin,Gene Barry,Ann Robinson,Les Tremayne,Robert Cornthwaite,7.2
+David Greene,David Soul,Brian Keith,Cathy Lee Crosby,Jeroen Krabbé,6.6
+William A. Seiter,Fred MacMurray,Claire Trevor,Raymond Burr,José Torvay,6.1
+Jun Fukuda,Kensaku Morita,Yûko Asano,Ryô kebe,Masaya Oki,5.0
+Joaquim Pedro de Andrade,Lima Duarte,Joffre Soares,Carmem Silva,Carlos Gregório,6.9
+Pedro Caldas,Francisco Belard,Maria Leite,Catarina Wall,Pedro M. Ruivo,6.4
+Nikos Papatakis, Olga Karlatos, Roland Bertin, Philippe Adrien, Mehmet Ulusoy,6.6
+Piotr Szulkin,Roman Wilhelmi,Krystyna Janda,Mariusz Dmochowski,Jerzy Stuhr,7.1
+Roy Del Ruth,Warren William,Loretta Young,Wallace Ford,Alice White,7.3
+Jim Reynolds,Moana Pozzi,lona Staller,Miss Pomodoro,dò Haver,7.0
+Luigi Acquisto,rim Tolentino,Augusta Soares,José da Costa,Osme Gonsalves,6.3
+Rafael Gil,Claude Laydu,Francisco Rabal,José Marco Davó,Fernando Sancho,7.1
+William Nigh,Anna May Wong,Harold Huber,Mae Clarke,Rick Vallin,5.7
+Brian De Palma,Tom Cruise,Jon Voight,Emmanuelle Béart,Henry Czerny,7.1
+Brad Bird,Tom Cruise,Paula Patton,Simon Pegg,Jeremy Renner,7.4
+J.J. Abrams,Tom Cruise,Philip Seymour Hoffman,Ving Rhames,Billy Crudup,6.9
+John Woo,Tom Cruise,Dougray Scott,Thandie Newton,Ving Rhames,6.1
+Christopher McQuarrie,Tom Cruise,Jeremy Renner,Simon Pegg,Rebecca Ferguson,7.5
+Emilie Deleuze,Axel Auriant-Blot,Philippe Duquesne,Alex Lutz,Nathan Melloul,6.8
+Joseph Kuo,Li Ching,Hung Lieh Chen,Nan Chiang,Chun Erh,4.4
+Ron Jeremy,Aja,Stella Star,Busty Belle,Tiger Lillie,6.3
+António-Pedro Vasconcelos,Victória Guerra,José Mata,Soraia Chaves,Ricardo Pereira,6.0
+Jeffrey Reiner,Shannen Doherty,Max Martini,Julian McMahon,Courtney Kidd,6.1
+J.A. Bayona,Naomi Watts,Ewan McGregor,Tom X Holland,Samuel Joslin,7.6
+Gianfranco (II) Romagnoli,Horst Baron,Lauro Giotto,Frank Gun,Nick Lang,6.2
+Andrew Fleming,Michael Douglas,Michael Bodnar,Vladimir Radian,Robin Tunney,5.7
+Antonio Santillán,Beni Deus,Arturo Fernández,Estanis González,Luis nduni,5.5
+Katsuhide Motoki,Kuranosuke Sasaki,Kyoko Fukada,Tsuyoshi hara,Masahiko Nishimura,6.3
+Paul Bartel,Brad Trumbull,Tim Conway,Jack Weston,Harvey Korman,5.4
+Silver Chung,Jeff Chin,Bernard Hiew,Jack Lim,Keat Yoke Chen,6.0
+Cho Sin Jung,n-seong Jo,Sa-rang Kim,Hyeong-jin Kong,Yeong-ran Heo,4.8
+Guy Casaril,Anicée Alvina,Nicole Courcel,Venantino Venantini,Jean Martin,5.4
+Christian Rost,Renate Foidl,Annemari Kuti,Bettina Gaupmann,Bianca Pokorny,8.1
+Gianfranco (II) Romagnoli,Mike Foster,Choky ce,Nick Lang,Zenza Raggi,6.4
+Jesús Martínez Nota,Antonio Albujer,Jimmy Jiménez,Manu Reyes,José Ruiz Monty,7.4
+Rafael Gil,Paquita Rico,Manolo Morán,Miguel Gila,Julio Núñez,6.4
+Nat Baer,Raymond Alverado,James Cullen Bressack,Bennett Schulberg,Roman Johnson,8.8
+Gabriel Tupinambá,Saulo Arcoverde,Henrique Botkay,Jorge Caetano,Erom Cordeiro,7.4
+Joseph Kosinski,Tom Cruise,Morgan Freeman,Olga Kurylenko,Andrea Riseborough,7.0
+Sam Irvin,Richard Joseph Paul,Jackie Swanson,Andrew Divoff,Meg Foster,5.3
+Zeresenay Mehari,Meron Getnet,Tizita Hagere,Abel Abebe,Genene Alemu,6.7
+Austin Andrews,David Adie,Lee Cameron,David X Grant,Harris Hart,6.3
+Galo Semblantes,Aleksander Ristic,Corley Henderson,Nathan Malone,Brandon Mhoon,8.1
+Heather (VII) Robinson,James Duval,Neil Willoughby,Tawny Amber Young,April Washko,7.7
+Marco (II) Chiavarelli,Leslie Batiste,Camila Campos Katz,Hannah Driscoll,George V Georgiou,6.0
+Shinsuke Sato,Christine Marie Cabanos,Patrick Seitz,Julie Maddalena,Julie Ann Taylor,7.0
+Hugo del Carril,Laura Hidalgo,Hugo del Carril,Pedro Laxalt,Eduardo Rudy, 7.8
+Abbas Rafei,Sareh Bayat,Amin Zendegani,Shahin Taslimi,Jila Alershad, 7.6
+Michale Boganim,Olga Kurylenko,Andrzej Chyra,lya osifov,Sergey Strelnikov, 6.5
+Chantal Akerman,Paul Amar,Robert Badinter,Guy Bedos,Henri Cartier-Bresson, 7.0
+Harutyun Khachatryan,Rouben Hakhverdian,V. Ananyan,R. Stepanyan,L. Avetisyan, 4.1
+Jason (IX) Hawkins,Dara Davey,Natasha Timpani,Simon XV Scott,Sam Brittan, 4.4
+Robert B. Churchill,Burt Lancaster,Shigeko Sasamori,Kosta Tsipis,Victor W. Sidel, 7.2
+David Flores,Morena Baccarin,Adam Baldwin,Victor Webster,George Kennedy, 3.6
+Paul (II) Morrison,Sam Smith,Leagh Conwell,Dominic Barklem,Jo Stone-Fewings, 7.1
+Tom DiCillo,Steve Buscemi,Catherine Keener,Dermot Mulroney,Danielle von Zerneck, 7.6
+Don Coscarelli,A. Michael Baldwin,Reggie Bannister,Bill Thornbury,Heidi Marnhout, 5.7
+Umberto Lenzi,Maurizio Merli,John Saxon,Barry Sullivan,Elio Zamuto, 7.2
+Charles Haine,Sterling Beaumon,Dax Speakman,Jeremy Davidson,Nicole Ansari-Cox, 7.2
+Rob Cohen,Paul Walker,Vin Diesel,Michelle Rodriguez,Jordana Brewster, 6.7
+Justin (II) Lin,Vin Diesel,Paul Walker,Jordana Brewster,Michelle Rodriguez, 6.6
+James Wan,Vin Diesel,Paul Walker,Jason Statham,Michelle Rodriguez, 7.3
+Busby Berkeley,Franchot Tone,Ann Sothern,Ruth Hussey,Lee Bowman, 6.2
+Melville W. Brown,Reginald Denny,Barbara Worth,Claude Gillingwater,Armand Kaliz, 3.5
+Norman Taurog,Lige Conley,Otto Fries,Ruth Hiatt,John Rand, 5.4
+Charles Lamont,Daphne Pollard,Norma Drew,Walter Merrill,Billy Gilbert, 5.4
+Justin (II) Lin,Vin Diesel,Paul Walker,Dwayne Johnson,Jordana Brewster, 7.2
+Justin (II) Lin,Vin Diesel,Paul Walker,Jordana Brewster,Tyrese Gibson, 7.3
+John Singleton,Paul Walker,Tyrese Gibson,Eva Mendes,Cole Hauser, 5.8
+Jim (II) Powers,Nick East,Mickey G.,Dave Hardman,Rafe, 6.8
+Justin (II) Lin,Lucas Black,Damien Marzette,Trula M. Marcus,Zachery Ty Bryan, 6.0
+John Ireland,John reland,Dorothy Malone,Bruce Carlisle,ris Adrian, 5.3
+Jason Friedberg,Alex Ashbaugh,Dale Pavinski,Lili Mirojnick,Andrea Navedo, 4.0
+David Betances,Melina Lizette,Kenyetta Lethridge,Steven Bauer,Olivia Brown, 3.6
+Léa Pool,Piper Perabo,Jessica Paré,Mischa Barton,Jackie Burroughs, 7.0
+Edwin L. Marin,Robert Montgomery,Rosalind Russell,Reginald Owen,Ralph Morgan, 6.2
+Laurent Bouzereau,John Carpenter,Bill Phillips,Richard Kobritz,Keith Gordon, 5.8
+Gordon Parry,Stanley Holloway,Kay Kendall,Brian Reece,Joan Young, 5.8
+Fred C. Newmeyer,Miriam Hopkins,Carole Lombard,Frank Morgan,Charles Starrett, 6.6
+Cristian E. Gutierrez,Ali Blaze,Samuel Bocock,Jermaine Brantley,Neil Brown Jr., 6.6
+György Szomjas, ános Derzsi,Margó Kiwán,ldi Deim,Péter Andorai, 6.0
+Tim Oliehoek,Jack Wouterse,Kurt Rogiers,Bracha van Doesburgh,Jaak Van Assche, 6.2
+Choon-sik Kim,Joo-hyun Jo,Se-hong Jeon,Gwang-il Lee,Tae-seong Park, 5.8
+Carlo Lastricati,Gina Lollobrigida,Vittorio De Sica,Dale Robertson,Amedeo Nazzari, 6.1
+Sidney J. Furie,Casper Van Dien,Danielle Brett,Joseph Griffin,Catherine Oxenberg, 3.1
+Mathias Fain,Josh Laster,Elvis Winterbottom,Blaine Saunders,Andy Martinez Jr., 7.0
+John (III) Clark,Terry Serio,Deborah Conway,Max Cullen,Richard Moir, 5.9
+Harvey S. Laidman,James Brolin,Rip Torn,Jennifer Warren,Melanie Griffith, 5.4
+Kyle Leighton Dresser,Merik Tadros,Justin Zaccaria,Anya Avaeva,nes Dali, 8.3
+Brian Large,Marilyn Horne,Susan Patterson,Kathleen Kuhlmann,Sandra Walker, 7.4
+Steven Hilliard Stern,Carrie Snodgress,Dick Shawn,Edie Adams,Jed Allan, 6.9
+Kurt Neumann,Tom Brown,Maureen O'Sullivan,James Gleason,Andy Devine,7.8
+Daniel Hogg,Evan Fabri,Geoff Melnychuk,Heidi V Smith,Mitch Holloway,5.1
+Paul Henreid,Mary Murphy,Norma Eberhardt,Mike Connors,Sheridan Comerate,6.6
+Dave Schram,Abbey Hoes,Ko Zandvliet,Mingus Dagelet,Juliet Daalder,4.9
+Kamal Ahmed,Stuart Rudin,Nick Ramus,Jim Fletcher,William Smith,3.5
+Jeff Centauri,Dale DaBone,Noname Jane,Voodoo,Andre McCoy,4.4
+Phillip Dye,Jackie Chan,Greg O'Neil,Chris Tucker,Brett Ratner,7.0
+Vjekoslav Katusin,Vjekoslav Katusin,Fred Eckhardt,Julia Liebeck,Steffen Probst,8.5
+Pasquale Marrazzo,Giovanni Brignola,Gabrielle Scharnitzky,Elisabetta D'Arco,Rainer Winkelvoss,5.4
+Tim Everitt,Simon Rhee,Arlene Montano,Phillip Rhee,Howard Jackson,5.4
+Shan-Hsi Ting,Yu Wang,Hsiao-Chuang Kuo,Paul Chang,Yeh Tien,4.9
+Malcolm St. Clair,Constance Talmadge,Bryant Washburn,Alice White,Paulette Duval,6.3
+Tim Postins,Vin Diesel,Tyrese Gibson,Dwayne Johnson,Sung Kang,8.4
+Malik Chibane,Shemss Audat,Frédéric Diefenthal,Lââm,Flore Vannier-Moreau,6.5
+Kenneth Branagh,Chris Hemsworth,Natalie Portman,Tom Hiddleston,Anthony Hopkins,7.0
+Eric Red,Mariel Hemingway,Michael Paré,Mason Gamble,Ken Pogue,5.7
+Alan Taylor,Chris Hemsworth,Natalie Portman,Tom Hiddleston,Anthony Hopkins,7.1
+Michael Ninn,Marco Banderas,Tony DeSergio,Jerry V,Nick Manning,7.8
+Neil (XII) Thompson,D.J. Cashmere,Mario DeGasperi,Alexander DiPersia,Richard Leighton,7.3
+Julie Delpy,Julie Delpy,Daniel Brühl,William Hurt,Anamaria Marinca,6.3
+Juraj Jakubisko,Anna Friel,Karel Roden,Vincent Regan,Hans Matheson,6.0
+Andrei Konst,Lucas Bond,Pavel Derevyanko,Paul Octavian Diaconescu,Vladimir Grosu,3.2
+Brian (II) Topping,Lars Woods,Ella Bowman,Julie Dreyfus,Melissa Reneé Martin,7.9
+Ryan Wise,Jon Mikl Thor,Mike Favata,Steve XV Price,Rusty Hamilton,7.0
+Hal Kanter,Dan Rowan,Dick Martin,Martha Hyer,Leif Erickson,6.2
+K. Raghavendra Rao,Dilip Kumar,Jeetendra,Sridevi,Pran,6.6
+Peter McWilliams,John Bassberger,Bette Midler,John Greenberg,James XX Harrison,6.5
+Jason (III) Hooper,Charles V Myers,Marc Coats,Daniel Dechaine,Scott Ferguson Greene,6.3
+Harry Moses,Glynn Turman,Vincent Gardenia,Craig Wasson,Howard E. Rollins Jr.,6.4
+Radu Mihai,Pavle Cemerikic,Nebojsa Glogovac,Remus Margineanu,Serban Pavlu,6.6
+Tim Burton,Michael Keaton,Jack Nicholson,Kim Basinger,Robert Wuhl,7.6
+Lambert Hillyer,Lewis Wilson,Douglas Croft,J. Carrol Naish,Shirley Patterson,6.6
 Christopher Nolan,Christian Bale,Gary Oldman,Tom Hardy,Joseph Gordon-Levitt,8.5
-Christopher Nolan, Christian Bale,Michael Caine,Liam Neeson,Katie Holmes, 8.3
-Tim Burton, Michael Keaton, Danny DeVito, Michelle Pfeiffer, Christopher Walken, 7.0
-Joel Schumacher, Val Kilmer, Tommy Lee Jones, Jim Carrey, Nicole Kidman, 5.4
-Joel Schumacher, Arnold Schwarzenegger, George Clooney, Chris O'Donnell, Uma Thurman, 3.7
-Biket Ilhan, Memet Ali Alabora, Katerina Moutsatsou, Mustafa Avkiran, Eleni Philippa, 5.1
-Tikoy Aguiluz, Sarsi Emmanuelle, Suzanne Love, Josephine Manuel, Ronnie Lazaro, 7.1
-Giuliano Carnimeo, David Warbeck, Janet Agren, Eva Grimaldi, Luisa Menon, 4.4
-Dick Jane, Scott Koto, Livia Peterson, John Castilone, Elissa Giuliacci, 5.5
-Yasuhiro Aoki, Kevin Conroy, Jason Marsden, Scott Menville, George Newbern, 6.8
-André Cayatte, Pascale Audret, Jane Birkin, Serge Gainsbourg, Elsa Martinelli, 6.0
-Mad Dad Dan, Cal Jammer, Fallon, Madison, Tony Tedeschi, 6.6
-Greg (II) Morgan, Oscar Torre, Noemi Dunbar, Yvonne Delarosa, Carlos Montilla, 7.4
-Ethan Spaulding, Jason O'Mara, Stuart Allan, Thomas Gibson, Morena Baccarin, 6.7
-Artemio Marquez, Dolphy, Shirley Moreno, Boy Alano, Bella Flores, 5.5
-Yves Ciampi, Pierre Fresnay, Renée Devillers, Jean-Claude Pascal, Claire Duhamel, 6.2
-John Guillermin, James Coburn, Kate Nelligan, Fionnula Flanagan, Leslie Carlson, 6.1
-Alexander (II) Gray, Alan Burnett, Mike Carlin, Dan Didio, William Dozier, 7.8
-Enrique Dawi, Moria Casán, Emilio Disi, Gino Renni, Alberto Fernández de Rosa, 6.1
-Michael Mazo, Thomas an Griffith, Nastassja Kinski, Christopher Plummer, George Touliatos, 4.4
-Stephen Hopkins, Jeff Bridges, Tommy Lee Jones, Suzy Amis, Lloyd Bridges, 6.2
-John Hughes, Anthony Michael Hall, Kelly LeBrock, lan Mitchell-Smith, Bill Paxton, 6.6
-Ricardo Bauleo, Ricardo Bauleo, Victor Bo, Julio De Grazia, Thelma Stefani, 3.9
-Timothy (III) Bond, Patrick Bergin, Désirée Nosbusch, Dan Petronijevic, Nina Muschallik, 4.7
-Louis J. Gasnier, Sally Rand, Esther Muir, Vince Barnett, Paul Sutton, 4.7
-Gustavo Graef Marino, Peter Weller, Daryl Hannah, Tom Berenger, Adrian Pintea, 3.9
-Frank McDonald, Chester Morris, Jean Parker, Barry Sullivan, Ralph Sanford, 6.0
-Frank Tashlin, Tony Randall, Jayne Mansfield, Betsy Drake, Joan Blondell, 7.2
-Chuck Martinez, Barbara Harris, Michelle Meyrink, William O'Leary, Wallace Shawn, 5.8
-Christian Stengel, Arletty, Raymond Bussières, Marthe Mercadier, Robert Vattier, 6.5
-Mircea Dragan, Radu Beligan, Gheorghe Dinica, Toma Caragiu, Dem Radulescu, 6.3
-José Gutiérrez Maesso, Helmut Berger, Sydne Rome, Kevin McCarthy, José María Caffarel, 4.8
-Isidro Ortiz, Lucía Jiménez, Juan X Fernández, Andoni Gracia, Paul Berrondo, 5.3
-Gilberto de Anda, Mario Almada, Adalberto Arvizu, Agustín Bernal, José Chávez, 5.5
-Félix Rotaeta, Antonio Banderas, Mathieu Carrière, Victoria Abril, Vicky Peña, 5.6
-Harry Horner, Ricardo Montalban, Anne Bancroft, Lee Marvin, José V Pérez, 6.5
-Rick King, Sasha Mitchell, Dennis Chan, Richard Comar, Noah Verduzco, 3.8
-José Antonio de la Loma, Margaux Hemingway, Lee Van Cleef, Jorge Rivero, Willie Aames, 5.3
-Carlos Azpúrua, Amalia Pérez Díaz, Jean Carlo Simancas, Daniel Alvarado, Flor Núñez, 6.7
-Antonio Isasi-Isasmendi, Karl Malden, Olivia Hussey, Christopher Mitchum, Raf Vallone, 6.5
-B.N. Reddi, Chittor V. Nagaiah, Kanchanamala, Mudigonda Lingamurthy, Kalyani, 8.0
-Chano Urueta, Sara García, Emilio Tuero, Carmen Montejo, Rafael Baledón, 6.8
-Miguel Contreras Torres, Ramón Pereda, Adriana Lamar, Alberto O'Farril, Estela Segarra, 6.3
-Joe Johnston,Chris V Evans, Hayley Atwell, Sebastian Stan, Tommy Lee Jones, 6.8
-Albert Pyun, Matt Salinger, Ronny Cox, Ned Beatty, Darren McGavin, 3.3
-Anthony (II) Russo, Chris V Evans, Samuel L. Jackson, Scarlett Johansson, Robert Redford, 7.8
-Brian De Palma, Jonathan Warden, Robert De Niro, Gerrit Graham, Richard Hamilton, 5.8
-Anthony (II) Russo, Chris V Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan, 8.5
-Frank Ciota, Eddie Malavarca, Maurizio Nichetti, Violante Placido, Nathaniel Marston, 7.4
-Jan Schütte, Aleksander Bardini, Ya'ackov Bodo, Jeffrey Feingold, Manny Jacobowitz, 6.8
-Rod Holcomb, Reb Brown, Len Birman, Heather Menzies-Urich, Robin Mattson, 3.8
-Elmer Clifton, Dick Purcell, Lorna Gray, Lionel Atwill, Charles Trowbridge, 6.1
-Robert Altman, Marylouise Burke, Woody Harrelson, L.Q. Jones, Tommy Lee Jones, 6.9
-John Landis, Eddie Murphy, Arsenio Hall, James Earl Jones, John Amos, 6.9
-Roger Spottiswoode, Mel Gibson, Robert Downey Jr., Nancy Travis, Ken Jenkins, 5.7
-Trey Parker, Trey Parker, Matt Stone, Kristen Miller, Daran Norris, 7.2
-Jim Sheridan, Paddy Considine, Samantha Morton, Sarah Bolger, Emma Bolger, 7.8
-Christopher Showerman, Jacob Motsinger, Christopher Alice, Kristi Engelmann, Wayne Bastrup, 4.4
-Roy Del Ruth, Doris Day, Gordon MacRae, Jack Smith, Leon Ames, 7.1
-Peter Bogdanovich, Ryan O'Neal, Burt Reynolds, Tatum O'Neal, Brian Keith, 6.3
-Uwe Boll, Jürgen Prochnow, Michael Paré, Patrick Muldoon, Kett Turton, 4.1
-Anton Corbijn, George Clooney, rina Björklund, Lars Hjelm, Björn Granath, 6.3
-Aleksandr Dovzhenko, Nikolai Gritsenko, Grigori Kirillov, Janis Osis, Grigoriy Shpigel, 6.5
-Wim Wenders, Dennis Hopper, Bruno Ganz, Lisa Kreuzer, Gérard Blain, 7.4
-Ilo Orleans, Cristo Cabrera, Paul Caster, Julian Cordova, Rory Cosgrove, 5.4
-Duncan Tucker, Andrea James, Felicity Huffman, Danny Burstein, Maurice Orozco, 7.5
-Joel Schumacher, Max Gail, Adam Baldwin, Mr. T, Charlie Barnett, 5.3
-Keir Politz, Christian Carbajal, Tobi Kanter, Mark Konrad, Chris LaPanta, 7.9
-Hal Roach, Brian Aherne, Victor McLaglen, Paul Lukas, June Lang, 6.2
-Gábor Herendi, Tibor Szervét, Csaba Pindroch, Gyözö Szabó, Eszter Ónodi, 7.1
-Robert (V) Fontaine, Robert V Fontaine, Michael Brainard, Grant Boyd, Michael Derek, 7.8
-Denis Delestrac, George W. Bush, Kevin Chilton, Noam Chomsky, Joseph Cirincione, 7.1
-Ron de Moraes, Jason Alexander, Jack Black, Dana Carvey, Larry David, 5.7
-Alan J. Levi, James Avery, Andre Braugher, George Clooney, Fran Drescher, 4.6
-Marco Kreuzpaintner, Kevin Kline, Cesar Ramos, Alicja Bachleda, Paulina Gaitan, 7.5
-Romano Vanderbes, Doug Ballard, Lydia Mahan, Wayne Knight, Kate Weiman, 4.4
-Param Gill, Eddie Griffin, Josh Meyers, Najarra Townsend, Mindy Robinson, 7.6
-Richard Benjamin, Whoopi Goldberg, Ted Danson, Will Smith, Nia Long, 4.9
-Fred Ashman, Michael G. Davis, Jonathan Banks, Jon Jon Briones, Ryan Christiansen, 1.1
-Jesse (XIII) Clark, Kerry Blouin, Damon Calderwood, Kayvon Kelly, Heather Doerksen, 6.8
-Shinji Aramaki, Arata Furuta, Adam Gibbs, Kiyoshi Kobayashi, David Matranga, 6.5
-Enrique Amberg, Dominique Harris, Jerry V Butler, Adam X Green, Robert XV Wilson, 5.5
-Cecília Amado, Jean Luis Amorim, Ana Graciela, Roberio Lima, srael Gouvea, 6.3
-Lee Citron, Dominic Conti, David Josh Lawrence, Ron V McPherson, Ted Ferguson, 8.8
-Martin Scorsese, Steven Prince, Martin Scorsese, George Memmoli, Mardik Martin, 7.6
-Ernest R. Dickerson, Josh Charles, Brandon Hammond, Serena Lee, Roderick Pannell, 7.2
-Jeremy Make, Edward Albee, Pete Holmes, Samuel D. Hunter, Jeremy Make, 9.2
-William Dear, Jonathan Taylor Thomas, Devon Sawa, Scott Bairstow, Frances Fisher, 6.3
-Flavio Alves, Burt Young, Sally Kirkland, Jacques Mitchell, Alex Kruz, 8.3
-Elia Kazan, Stathis Giallelis, Frank Wolff, Harry Davis, Elena Karam, 7.9
-Michael (II) Moore, Michael Moore, Eddie Vedder, Robert Ellis Orrall, Steve Earle, 5.3
-Orson Welles, Joseph Cotten, Dorothy Comingore, Agnes Moorehead, Ruth Warrick, 8.4
-Péter Gothár, Andor Lukáts, Trula Hoosier, Stafford Ashani, Erika Bodnár, 7.2
+Christopher Nolan,Christian Bale,Michael Caine,Liam Neeson,Katie Holmes,8.3
+Tim Burton,Michael Keaton,Danny DeVito,Michelle Pfeiffer,Christopher Walken,7.0
+Joel Schumacher,Val Kilmer,Tommy Lee Jones,Jim Carrey,Nicole Kidman,5.4
+Joel Schumacher,Arnold Schwarzenegger,George Clooney,Chris O'Donnell,Uma Thurman,3.7
+Biket Ilhan,Memet Ali Alabora,Katerina Moutsatsou,Mustafa Avkiran,Eleni Philippa,5.1
+Tikoy Aguiluz,Sarsi Emmanuelle,Suzanne Love,Josephine Manuel,Ronnie Lazaro,7.1
+Giuliano Carnimeo,David Warbeck,Janet Agren,Eva Grimaldi,Luisa Menon,4.4
+Dick Jane,Scott Koto,Livia Peterson,John Castilone,Elissa Giuliacci,5.5
+Yasuhiro Aoki,Kevin Conroy,Jason Marsden,Scott Menville,George Newbern,6.8
+André Cayatte,Pascale Audret,Jane Birkin,Serge Gainsbourg,Elsa Martinelli,6.0
+Mad Dad Dan,Cal Jammer,Fallon,Madison,Tony Tedeschi,6.6
+Greg (II) Morgan,Oscar Torre,Noemi Dunbar,Yvonne Delarosa,Carlos Montilla,7.4
+Ethan Spaulding,Jason O'Mara,Stuart Allan,Thomas Gibson,Morena Baccarin,6.7
+Artemio Marquez,Dolphy,Shirley Moreno,Boy Alano,Bella Flores,5.5
+Yves Ciampi,Pierre Fresnay,Renée Devillers,Jean-Claude Pascal,Claire Duhamel,6.2
+John Guillermin,James Coburn,Kate Nelligan,Fionnula Flanagan,Leslie Carlson,6.1
+Alexander (II) Gray,Alan Burnett,Mike Carlin,Dan Didio,William Dozier,7.8
+Enrique Dawi,Moria Casán,Emilio Disi,Gino Renni,Alberto Fernández de Rosa,6.1
+Michael Mazo,Thomas an Griffith,Nastassja Kinski,Christopher Plummer,George Touliatos,4.4
+Stephen Hopkins,Jeff Bridges,Tommy Lee Jones,Suzy Amis,Lloyd Bridges,6.2
+John Hughes,Anthony Michael Hall,Kelly LeBrock,lan Mitchell-Smith,Bill Paxton,6.6
+Ricardo Bauleo,Ricardo Bauleo,Victor Bo,Julio De Grazia,Thelma Stefani,3.9
+Timothy (III) Bond,Patrick Bergin,Désirée Nosbusch,Dan Petronijevic,Nina Muschallik,4.7
+Louis J. Gasnier,Sally Rand,Esther Muir,Vince Barnett,Paul Sutton,4.7
+Gustavo Graef Marino,Peter Weller,Daryl Hannah,Tom Berenger,Adrian Pintea,3.9
+Frank McDonald,Chester Morris,Jean Parker,Barry Sullivan,Ralph Sanford,6.0
+Frank Tashlin,Tony Randall,Jayne Mansfield,Betsy Drake,Joan Blondell,7.2
+Chuck Martinez,Barbara Harris,Michelle Meyrink,William O'Leary,Wallace Shawn,5.8
+Christian Stengel,Arletty,Raymond Bussières,Marthe Mercadier,Robert Vattier,6.5
+Mircea Dragan,Radu Beligan,Gheorghe Dinica,Toma Caragiu,Dem Radulescu,6.3
+José Gutiérrez Maesso,Helmut Berger,Sydne Rome,Kevin McCarthy,José María Caffarel,4.8
+Isidro Ortiz,Lucía Jiménez,Juan X Fernández,Andoni Gracia,Paul Berrondo,5.3
+Gilberto de Anda,Mario Almada,Adalberto Arvizu,Agustín Bernal,José Chávez,5.5
+Félix Rotaeta,Antonio Banderas,Mathieu Carrière,Victoria Abril,Vicky Peña,5.6
+Harry Horner,Ricardo Montalban,Anne Bancroft,Lee Marvin,José V Pérez,6.5
+Rick King,Sasha Mitchell,Dennis Chan,Richard Comar,Noah Verduzco,3.8
+José Antonio de la Loma,Margaux Hemingway,Lee Van Cleef,Jorge Rivero,Willie Aames,5.3
+Carlos Azpúrua,Amalia Pérez Díaz,Jean Carlo Simancas,Daniel Alvarado,Flor Núñez,6.7
+Antonio Isasi-Isasmendi,Karl Malden,Olivia Hussey,Christopher Mitchum,Raf Vallone,6.5
+B.N. Reddi,Chittor V. Nagaiah,Kanchanamala,Mudigonda Lingamurthy,Kalyani,8.0
+Chano Urueta,Sara García,Emilio Tuero,Carmen Montejo,Rafael Baledón,6.8
+Miguel Contreras Torres,Ramón Pereda,Adriana Lamar,Alberto O'Farril,Estela Segarra,6.3
+Joe Johnston,Chris V Evans,Hayley Atwell,Sebastian Stan,Tommy Lee Jones,6.8
+Albert Pyun,Matt Salinger,Ronny Cox,Ned Beatty,Darren McGavin,3.3
+Anthony (II) Russo,Chris V Evans,Samuel L. Jackson,Scarlett Johansson,Robert Redford,7.8
+Brian De Palma,Jonathan Warden,Robert De Niro,Gerrit Graham,Richard Hamilton,5.8
+Anthony (II) Russo,Chris V Evans,Robert Downey Jr.,Scarlett Johansson,Sebastian Stan,8.5
+Frank Ciota,Eddie Malavarca,Maurizio Nichetti,Violante Placido,Nathaniel Marston,7.4
+Jan Schütte,Aleksander Bardini,Ya'ackov Bodo,Jeffrey Feingold,Manny Jacobowitz,6.8
+Rod Holcomb,Reb Brown,Len Birman,Heather Menzies-Urich,Robin Mattson,3.8
+Elmer Clifton,Dick Purcell,Lorna Gray,Lionel Atwill,Charles Trowbridge,6.1
+Robert Altman,Marylouise Burke,Woody Harrelson,L.Q. Jones,Tommy Lee Jones,6.9
+John Landis,Eddie Murphy,Arsenio Hall,James Earl Jones,John Amos,6.9
+Roger Spottiswoode,Mel Gibson,Robert Downey Jr.,Nancy Travis,Ken Jenkins,5.7
+Trey Parker,Trey Parker,Matt Stone,Kristen Miller,Daran Norris,7.2
+Jim Sheridan,Paddy Considine,Samantha Morton,Sarah Bolger,Emma Bolger,7.8
+Christopher Showerman,Jacob Motsinger,Christopher Alice,Kristi Engelmann,Wayne Bastrup,4.4
+Roy Del Ruth,Doris Day,Gordon MacRae,Jack Smith,Leon Ames,7.1
+Peter Bogdanovich,Ryan O'Neal,Burt Reynolds,Tatum O'Neal,Brian Keith,6.3
+Uwe Boll,Jürgen Prochnow,Michael Paré,Patrick Muldoon,Kett Turton,4.1
+Anton Corbijn,George Clooney,rina Björklund,Lars Hjelm,Björn Granath,6.3
+Aleksandr Dovzhenko,Nikolai Gritsenko,Grigori Kirillov,Janis Osis,Grigoriy Shpigel,6.5
+Wim Wenders,Dennis Hopper,Bruno Ganz,Lisa Kreuzer,Gérard Blain,7.4
+Ilo Orleans,Cristo Cabrera,Paul Caster,Julian Cordova,Rory Cosgrove,5.4
+Duncan Tucker,Andrea James,Felicity Huffman,Danny Burstein,Maurice Orozco,7.5
+Joel Schumacher,Max Gail,Adam Baldwin,Mr. T,Charlie Barnett,5.3
+Keir Politz,Christian Carbajal,Tobi Kanter,Mark Konrad,Chris LaPanta,7.9
+Hal Roach,Brian Aherne,Victor McLaglen,Paul Lukas,June Lang,6.2
+Gábor Herendi,Tibor Szervét,Csaba Pindroch,Gyözö Szabó,Eszter Ónodi,7.1
+Robert (V) Fontaine,Robert V Fontaine,Michael Brainard,Grant Boyd,Michael Derek,7.8
+Denis Delestrac,George W. Bush,Kevin Chilton,Noam Chomsky,Joseph Cirincione,7.1
+Ron de Moraes,Jason Alexander,Jack Black,Dana Carvey,Larry David,5.7
+Alan J. Levi,James Avery,Andre Braugher,George Clooney,Fran Drescher,4.6
+Marco Kreuzpaintner,Kevin Kline,Cesar Ramos,Alicja Bachleda,Paulina Gaitan,7.5
+Romano Vanderbes,Doug Ballard,Lydia Mahan,Wayne Knight,Kate Weiman,4.4
+Param Gill,Eddie Griffin,Josh Meyers,Najarra Townsend,Mindy Robinson,7.6
+Richard Benjamin,Whoopi Goldberg,Ted Danson,Will Smith,Nia Long,4.9
+Fred Ashman,Michael G. Davis,Jonathan Banks,Jon Jon Briones,Ryan Christiansen,1.1
+Jesse (XIII) Clark,Kerry Blouin,Damon Calderwood,Kayvon Kelly,Heather Doerksen,6.8
+Shinji Aramaki,Arata Furuta,Adam Gibbs,Kiyoshi Kobayashi,David Matranga,6.5
+Enrique Amberg,Dominique Harris,Jerry V Butler,Adam X Green,Robert XV Wilson,5.5
+Cecília Amado,Jean Luis Amorim,Ana Graciela,Roberio Lima,srael Gouvea,6.3
+Lee Citron,Dominic Conti,David Josh Lawrence,Ron V McPherson,Ted Ferguson,8.8
+Martin Scorsese,Steven Prince,Martin Scorsese,George Memmoli,Mardik Martin,7.6
+Ernest R. Dickerson,Josh Charles,Brandon Hammond,Serena Lee,Roderick Pannell,7.2
+Jeremy Make,Edward Albee,Pete Holmes,Samuel D. Hunter,Jeremy Make,9.2
+William Dear,Jonathan Taylor Thomas,Devon Sawa,Scott Bairstow,Frances Fisher,6.3
+Flavio Alves,Burt Young,Sally Kirkland,Jacques Mitchell,Alex Kruz,8.3
+Elia Kazan,Stathis Giallelis,Frank Wolff,Harry Davis,Elena Karam,7.9
+Michael (II) Moore,Michael Moore,Eddie Vedder,Robert Ellis Orrall,Steve Earle,5.3
+Orson Welles,Joseph Cotten,Dorothy Comingore,Agnes Moorehead,Ruth Warrick,8.4
+Péter Gothár,Andor Lukáts,Trula Hoosier,Stafford Ashani,Erika Bodnár,7.2
+Lana Wachowski,Keanu Reeves,Laurence Fishburne,Carrie-Anne Moss,Hugo Weaving,8.7
+Peter Chung,Clayton Watson,Akio Ôtsuka,Terrence 'T.C.' Carson,Dane A. Davis,7.4
+Cory Udler,Blade Braxton,Michael Eauslin,Joe Hollow,Greg XXX Johnson,6.3
+Victor Sjöström,Jenny Hasselqvist,van Hedqvist,Tore Svennberg,Gösta Ekman,6.8
+Lana Wachowski,Ray Anthony,Christine Anu,Andy Arness,Alima Ashton-Sheibu,7.2
+Lana Wachowski,Mary Alice,Tanveer K. Atwal,Helmut Bakaitis,Kate Beahan,6.7
+Jeff Axtman,Dale Bradrick,Kate V Russell,Angela M. Grillo,Mindy Byram,7.0
+Mark (XII) Brennan,Paul F. Taylor,Lauren Shotton,Peter X Bradley,Jenny V Mitchell,7.7
+Paul (II) Verhoeven,Franziska Kinz,Ferdinand Marian,Maria Landrock,Klaus Detlef Sierck,6.2
+Mikio Hirota,Beau Billingslea,Steve Cassling,Neil Kaplan,Dave Mallow,4.5
+Nick Orleans,Jill Kelly,Salena Del Ray,Taylor St. Clair,Chennin Blanc,6.7
+Hua-Tao Teng,Leon Lai,Rene Liu,Bingbing Fan,Songzi Xu,5.6
+Harry Edwards,Curly Howard,Larry Fine,Moe Howard,Marjorie Deanne,7.5
+Cristina Comencini,Diego Abatantuono,Francesca Neri,Stefania Sandrelli,Claude Brasseur,6.1
+Gustaf Molander,Lil Dagover,Gösta Ekman,Karin Swanström,Håkan Westergren,6.1
+Viola Folador,Vittorio Carotenuto,Chicco Colombo,Luigi La Marca,Mattia Migliarino,9.9
+Eric Chisholm,Stephany Acosta,Stephen Boone,Morgan Mishelle Boutilier,Mikayla Childs,2.6
+Jian Hong Kuo,Genevieve O'Reilly,Luoyong Wang,Kay Siu Lim,David Warner,4.6
+Timur Bekmambetov,Karen McDougal,Lisa Dergan,Olga Sutulova,Yuliya Chicherina,2.7
+Lyudmil Kirkov,Nevena Kokanova,Katya Paskaleva,Katya Chukova,Milka Tuykova,7.6
+Carlos Jaureguialzo,Cecilia Roth,Darío Grandinetti,Manuel Vicente,Rafael Spregelburd,5.7
+Guillaume Pierret,Catherine Badet-Corniou,Adrien Bienvenu,Fabrice Delorme,Damien Leconte,6.9
+Nikos Kornilios,Katerina Aggelaki-Rouk,Evelina Arapidou,Eirini Asimakopoulou,Alexandra Balomenou,8.1
+Jeremy Freeston,Lucy Lawless,Cecily Fay,Amanda Turner,Emily Hollins,7.8
+David Aaron Clark,Michael Stefano,Van Damage,Annabel Chong,Jade-Blue Eclipse,7.7
+Val Guest,Laurence Harvey,Sylvia Syms,Yolande Donlan,Cliff Richard,6.2
+J. Lee Thompson,Kenneth More,Lauren Bacall,Herbert Lom,Wilfrid Hyde-White,7.2
+Eldar Shengelaia,Zura Kipshidze,Nana Shonia,Mikheil Vashadze,Maka Makharadze,8.4
+Francisco Rovira Beleta,Jorge Mistral,Marisa de Leza,Mara Berni,Vicente Parra,7.3
+Mariano Ozores,Alfredo Landa,sabel Garcés,Paca Gabaldón,Antonio Ozores,4.4
+Kevin Powis,Norman Wisdom,Geoffrey Hughes,Don Warrington,sabelle Waring,5.9
+Stephan Parent,Alexis Barbe,David Batani,François Beaulieu,Jules Hubert Beaulieu,7.7
+István György,lona Dajbukát,László Perényi,Lili Berky,Gyula Gózon,7.4
+Gonçalo Galvão Teles,Filipe Duarte,Beatriz Batarda,Adriano Luz,Albano Jerónimo,6.0
+Christopher Nolan,Ellen Burstyn,Matthew McConaughey,Mackenzie Foy,John Lithgow,8.6
+George Lucas,Mark Hamill,Harrison Ford,Carrie Fisher,Peter Cushing,8.7
+George (II) Miller,Mel Gibson,Joanne Samuel,Hugh Keays-Byrne,Steve Bisley,7.0
+Federico Fellini,Sergio Rubini,Antonella Ponziani,Maurizio Mein,Paola Liguori,7.1
+Marc-Andre Samson,Shiloh Fernandez,Chase Mallen,Joseph Benz,Walter Peña,3.9
+Mike Marvin,Charlie Sheen,Nick Cassavetes,Sherilyn Fenn,Randy Quaid,5.9
+Sydney Pollack,Nicole Kidman,Sean Penn,Catherine Keener,Jesper Christensen,6.4
+Corneliu Porumboiu,Dragos Bucur,Vlad vanov,on Stoica,rina Saulescu,7.1
+Brad Osborne,Jeffrey Schmidt,Bill Flynn,Jennifer Holland,Christopher Sabat,8.3
+Camille Stochitch,Gina Rodriguez,Benny Nieves,Max Arciniega,Roberto Montesinos,7.9
+Nuri Bilge Ceylan,Haluk Bilginer,Melisa Sözen,Demet Akbag,Ayberk Pekcan,8.3
+Konstantin Maksimov,gor Petrenko,Lyubov Tolkalina,Aleksandr Baluev,Vladimir Vdovichenkov,3.8
+Michael Cohn,Jürgen Prochnow,Andrew Divoff,Elizabeth Morehead,J. Kenneth Campbell,4.9
+Christopher Thies,Tim R. Morgan,Mike Magri,Charles Majka,Bob Harlow,5.4
+Johannes Schmid,Nina Monka,Ursula Werner,Leon Seidel,Dominik Nowak,6.9
+Akiva Goldsman,Colin Farrell,Matt Bomer,Lucy Griffiths,Michael X Crane,6.2
+Eberhard Fechner,Ulrich von Dobschütz,Hans Christian Blech,Katharina Thalbach,Henning Schlüter,5.1
+Linus Lau,E. Myles Geller,Genie Kim,Deborah Ostrowsky,Peter De Leal,6.9
+Jamil Nelson,Richard Baderinwa,Marc Bushelle,Derek Caldwell,Bryant Cook,6.5
+Andrew Bellware,Daryl Boling,Kathleen Kwan,Don Arrup,James Edward Becton,2.9
+Bob Gale,Matthew Edison,Paul Brogren,Wayne Robson,Gary Oldman,7.7
+Phillip J. Roth,Olivier Gruner,Brad Dourif,Ernie Hudson,William Zabka,3.9
+Fred Zinnemann,Pier Angeli,John Ericson,Patricia Collinge,Richard Bishop,6.5
+Alfred Santell,Burgess Meredith,Margo,Eduardo Ciannelli,John Carradine,6.3
+George McCowan,Bruce Armstrong,Eric Cryderman,Don V Allen,Kay Hawtrey,5.8
+Sonja Wyss,Gerda Zangger,Sandra Utzinger,Brigitta Weber,Katalin Liptak,6.5
+Dino Risi,Serena Grandi,Luca Barbareschi,Eros Pagni,Flora Carosello,4.8
+Paul Verhoeven,Jon Bluming,Bernard Droog,Peter Faber,Wim Zomer,7.0
+Kevin Hooks,Austin Butler,Nolan Gerard Funk,Danielle Panabaker,Chloe Bennet,7.4
+Jorge (II) Dorado,Marian Álvarez,David Luque,Carla Díaz,Yara Capa,7.3
+Alfredo B. Crevenna,Maricruz Olivier,Fernando Rey,Beatriz Aguirre,Luis Beristáin,7.4
+Miranda Pennell,Hannu Kari,Jaakko Niemelä,Heikki Roukangas,Wilma Alanen,6.7
+András Kovács M.,Mihály Szabados,Lili Bordán,Áron Beczásy,rén Bordán,7.7
+Andrew Paul Davis,Todd Bruno,Timothy Mark Davis,Matt Schieffer,Emily Frazier,8.1
+Yuriy Kara,Natalya vanova-Fenkina,Nikolay Kochegarov,gor Lagutin,Sergey Nikonenko,8.0
+Gérard Vergez,Suzanne Flon,Anne Doat,Robert Rimbaud,Pierre Richard,5.6
+Lloyd A. Simandl,Wendy Crewson,Patrick Bergin,Peter Outerbridge,Michelle Beaudoin,3.7
+Dave Thomas,Dan Aykroyd,Lynda Boyd,Christine Chatelain,Maury Chaykin,5.6
+Robert Glinski,Aleksandra Gietner,Karolina Sobczak,Zbigniew Zamachowski,Malgorzata Rozniatowska,7.3
+Ross Partridge,Kevin Dillon,John Littlefield,John Doman,Megan Dodds,5.0
+Gennadi Poloka,Vladimir Vysotskiy,Yuliya Burygina,Yuriy Tolubeev,Yefim Kopelyan,6.8
+Dan Kwan,Bryan Condon,Ani Raya-Flores,Waymond Lee,Rosa Handelman,8.0
+Tom Tykwer,Ulrich Matthes,Marie-Lou Sellem,Heino Ferch,Floriane Daniel,7.3
+Eckhart Schmidt,Annett Culp,Scott Trost,Harmony Smith,Kelly Taffe,3.3
+Jacques Besnard,Louis de Funès,Bernard Blier,Maria-Rosa Rodriguez,Venantino Venantini,6.8
+John Brahm,Sonja Henie,Jack Oakie,Cesar Romero,Carole Landis,6.7
+Antonio Eguino,Luis V Aldana,Eddy Bravo,Germán Calderón,Daniel del Castillo,5.7
+Jacques Nolot,Mathilde Moné,Henri Gardey,Jacques Nolot,Christian Sempe,6.8
+Christopher Dorrah,Clifton Powell,Chrystale Wilson,Leslie V Black,Tahiry Jose,6.9
+Antonio Capuano,Licia Maglietta,Carlo Cecchi,Toni Servillo,Antonino uorio,6.9
+Visa Koiso-Kanttila,Kalle Koiso-Kanttila,Roland Hermann,Tom Krause,Renate Ackermann,4.7
+Nick Hiltgen,Tyler Case,Toliver Crisp,Tim Habeger,Davon Stuart,7.9
+Rafael Gordon,sabel Ordaz,Assumpta Serna,Amparo Valle,Ana José Bóveda,7.4
+Matthias Günter,Andy Herzog,Katarina Schroeter,Sophie Hutter,Susann Rüdlinger,7.0
+Dick Tuinder,Marcel Faber,Michiel Huisman,Tom Jansen,Aryan Kaganof,5.3
+Pier Francesco Pingitore,Stefano Antonucci,Tomas Arana,Enzo Cannavale,Lorenzo Flaherty,5.2
+Ken Caslis,Andy Holt,Alison Haislip,Leandro Cano,Christie Philips,4.6
+Miklós Jancsó,Éva Ruttkai,Miklós Gábor,Lajos Básti,stván Velenczei,7.6
+Douglas Ray,Matt Berry,Andrew Hawley,Paul Hilton,James Lance,9.7
+Robert (V) Ford,Chris Jack,Tom Sharkey,Gina Lamb,Claire Lever,7.7
+Tony Goldwyn,Famke Janssen,Dorian Missick,Xander Berkeley,Sarah Clarke,8.2
+Rene Damberg,Dennis Madaus,Moloch,Maya Klein,Rene Damberg,6.6
+Mark L. Lester,Daniel Baldwin,Coolio,Alex McArthur,Jenya Lano,4.2
+Sergio Esquenazi,Santiago Pedrero,Sandra Ballesteros,Ana Cuerdo,Diego Alonso Gómez,4.2
+François Bouvier,Joël Dalpé-Drapeau,Patrick Thomas,Mathieu Beaumier,Maude Gionet,7.1
+Chance Shirley,Cary Borders,David XCV Brown,James H. Brown,Damon Carter,4.6
+Mauricio Novelo,Tadao Andô,Naoya Hatakeyama,Natsu Nakajima,Makoto Aida,8.4
+Stanko Crnobrnja,Roger Moore,Justin Fried,Dragana Marjanovic,Pavle Bojkovski,6.5
+Claude Goddard,Jamie Gillis,Susan V Sloan,Mickey Humm,Jennifer V Jordan,6.5
+Dave (II) Edwards,Will Brenton,Mark Kingston,Phil Rowlands,John Rye,8.1
+Robert Scali,Lenny Clarke,Patty Ross,Tony V.,Frank Santorelli,7.7
+Mike Lemcke,Miaken Kristola,Jordan Scovel,Liam Toner,Grant Lyon,7.4
+Gregorio Cramer,Ricardo Bartis,Gabriel Correa,Miguel Guerberof,Luis Ziembrowski,7.7
+Hamilton McLeod,an Veneracion,Raymond Bagatsing,Simon barra,Miguel V Moreno,4.9
+Herb Stein,Jason Brooks,Bryan Dattilo,van G'Vera,Robert Kelker-Kelly,7.4
+Rion Kujô,Cam Clarke,Kenji Makabe,Kôki Miyata,Mitch Rose,6.3
+Inx B. Incubury,Reza Abolmolouk,Bradley Cherry,John Liao,Aaron Licht,6.4
+Gore Verbinski,Johnny Depp,Geoffrey Rush,Orlando Bloom,Keira Knightley,8.1
+Gore Verbinski,Johnny Depp,Orlando Bloom,Keira Knightley,Jack Davenport,7.3
+Gore Verbinski,Johnny Depp,Geoffrey Rush,Orlando Bloom,Keira Knightley,7.1
+Giuseppe Maria Scotese,Louis Hayward,Binnie Barnes,Mariella Lotti,Massimo Serato,6.5
+Colin Eggleston,John Hargreaves,Meredith Phillips,Max Phipps,Bill Hunter,4.1
+Jan Rahbek,Toke Lars Bjarke,Jess ngerslev,Tom Jensen,Thomas Borch Nielsen,4.1
+Howard Bretherton,Tim Holt,Cliff Edwards,Nell O'Day,John Elliott,6.1
+Seymore Butts,Seymore Butts,Kurt Lockwood,Tee Reel,Herschel Savage,7.5
+Fernando Colomo,Ana Belén,Santiago Ramos,Juan Echanove,Chus Lampreave,5.6
+Felix E. Feist,Paul Henreid,Patricia Medina,Paul Newlan,John Miljan,5.1
+Teresa Lampréia,Rafael Almeida,Gésio Amadeu,Cacá Amaral,Lorenzoi Aprouch,5.8
+John Guillermin,Charlton Heston,Yvette Mimieux,James Brolin,Claude Akins,5.6
+William Beaudine,Ralph Byrd,Carol Hughes,Jack Mulhall,Julie Duncan,5.8
+Raoul Walsh,Robert Newton,Linda Darnell,William Bendix,Keith Andes,6.1
+Spencer Gordon Bennet,Kane Richmond,Kay Aldridge,Roy Barcroft,Clancy Cooper,7.5
+Gottfried Reinhardt,O.W. Fischer,Sonja Ziemann,Peter van Eyck,Christian Wolff,5.4
+Kevin Connor,Angus Macfadyen,Mark Umbers,Richard Chamberlain,Jessica Chastain,5.7
+Lamberto Bava,Mario Adorf,Anna Falchi,Jennifer Nitsch,Nicholas Rogers,8.2
+Darren Lemke,Dean Cain,Ashley Scott,Danny Trejo,rina Björklund,6.0
+Guy Green,David Farrar,David Knight,Julia Arnall,Anthony Oliver,6.4
+Al Adamson,Sandra Dee,Gary Kent,Jack Elam,Ken Curtis,5.5
+Marcel Visbeen,Ricky Koole,Martijn Nieuwerf,Anke Engels,Romijn Conen,7.2
+Zachary Rothman,Milt Bruchanski,Ron V Moore,Julie Adams,Onalee Ames,7.6
+Jo Kennedy,Firass Dirani,Woody Miles,Robert Myon,an Scott,5.8
+Fred Toye,Bodhi Elfman,Michelle Stafford,Scarlett Chorvat,Michael Cornacchia,7.1
+Barry Hecker,Brian X Grant,Andrew MacBean,Matthew Stollery,Julie Adams,7.3
+Kathryn Annelle,Justine Joli,Claire V Adams,Syd Blakovich,Kimberly Kane,7.9
+Antti Tolonen,Jussi Ala-Karvia,Juho Laitinen,Ari Savonen,Annastiina Gylling,8.2
+Katherine Makinney,Julian Garcia,Joel David Moore,Ron Truppa,Steve Yager,8.1
+Robin Forrest,Paul X Goldsmith,Sally Campion-Jones,Terry Molloy,Greg Lindsey-Smith,7.0
+Peter Rowe,Kenneth Welsh,Helen Shaver,Michael Hogan,Charles Jolliffe,6.4
+Bettina Eberhard,Ulrike Schwab,Till Firit,Klaus Heindl,Stefan Lampadius,6.7
+Chris Sivertson,Marc Senter,Shay Astar,Alex Frost,Megan Henning,6.1
+Bryan Goeres,Armand Assante,Dina Meyer,Lacey Chabert,Sergi Mateu,6.0
+Tara Miele,Josh Burrow,Jacob Buster,Robert Carbo,Feodor Chin,4.7
+Neil (IX) Jones,Stuart Brennan,Joe Daniels,Ed Eales White,Grainne Joughin,6.7
+Ivo Trajkov,Karel Zima,Madla Zimová,Klára Melísková,Miroslav Táborský,8.8
+Dwight (V) Thompson,Skip Heitzig,Wayne V Hill,Christopher Laurie,Greg Laurie,9.3
+Kaneto Shindô,Hideo Kanze,Nobuko Otowa,Eimei Esumi,Daigo Kusano,7.0
+Edward L. Cahn,Leo Carrillo,Noah Beery,Mary Brian,Russell Gleason,7.3
+Francis Yamoah,Ede Aigbe,Lewes Barnett,Kassidy Chaplin,Joshua Kelly,7.1
+Mohammad Ali Sajjadi,Bijan Emkanian,Hamid Taati,Valiyollah Shirandami,Ali Shoa'i,5.8
+David Feiss,Phil LaMarr,Mary Gross,Tom Kenny,Dee Bradley Baker,7.4
+Christian Sesma,Rochelle Vallese,Luke Goss,Robert Davi,Derek Mears,2.8
+David Petrucci,Danny Trejo,Mischa Barton,Michael Madsen,Daniel Baldwin,3.9
+Dino Risi,Vittorio Gassman,Catherine Deneuve,Danilo Mattei,Anicée Alvina,7.1
+Chad Archibald,Ry Barrett,Emily Alatalo,Jennifer Polansky,Samuel Borstein,5.1
+Mong-Hong Chung,Yu Wang,Hsiao-chuan Chang,Shih-Chieh Chin,Leon Dai,6.4
+Marcus Nash,Ezra Buzzington,Katie Keene,John Shartzer,Pat McNeely,3.4
+Harry Revier,William 'Stage' Boyd,Kane Richmond,Claudia Dell,Josef Swickard,5.1
+Franco Battiato,Corrado Fortuna,Donatella Finocchiaro,Anna Maria Gherardi,Lucia Sardo,5.9
+Rodrigue Jean,Suzie LeBlanc,Patrick Goyette,Ginette Morin,Marilou Longpré Pilon,6.4
+Anthony Adams,Angel Boris Reed,Michael McLafferty,Mark Collie,Neil Dickson,4.7
+Jim (III) Doyle,Ron Moody,Lesley Joseph,Tom Watt,Jeremy Edwards,5.9
+Nikos Pastras,Katia Goulioni,Kora Karvouni,Maria Eglezaki,Athina Kotsianouli,7.1
+Yasujirô Ozu,Tatsuo Saitô,Mitsuko Yoshikawa,Tomio Aoki,Mitsuko chimura,5.5
+Dana Schroeder,Dave Vescio,Nick Mancuso,Zadran Wali,Andy Gates,5.2
+Chase (II) Conner,Brandon V Alexander,Danny Bellini,Luis Burbano,Chase Conner,8.7
+Michael Jorgensen,Jeremy Schwab,Richard George,Blake Franson,Craig Boarini,8.0
+JiWon Shin,Gabrielle Houeix,Andre Carter,Philippe Houeix,Nathalie Doucet,8.3
+Fredrik von Krusenstjerna,Hans Canjé,ngo Hasselbach,Kurt Goldstein,Jens Pfannschmidt,6.6
+Yasujirô Ozu,Tatsuo Saitô,Fumiko Okamura,Soichi Kunijima,Shichiro Sugano,7.6
+Kazuo Kuroki,Jun Hamamura,Yoshio Harada,Yûdai shiyama,Kôjirô Kusanagi,7.3
+Daisuke Yamaoka,Makiko Watanabe,Hiroshi Yamaoka,Mayumi Watanabe,Takashi Hayakawa,4.8
+Beth Alspaugh,Greg Bronson,Joe Flowers,Cade Frankson,Matthew Rosin,8.4
+Anthony Duva,Christine Girouad,Anthony Duva,Bridget Eden,Lisa Barca,4.4
+James Cameron,Leonardo DiCaprio,Kate Winslet,Billy Zane,Kathy Bates,7.7
+Roy Ward Baker,Kenneth More,Ronald Allen,Robert Ayres,Honor Blackman,7.9
+Jean Negulesco,Clifton Webb,Barbara Stanwyck,Robert Wagner,Audrey Dalton,7.3
+Werner Klingler,Sybille Schmitz,Hans Nielsen,Kirsten Heiberg,Ernst Fritz Fürbringer,6.4
+Pier Angelo Mazzolotti,Mario Bonnard,Giovanni Casaleggio,Pierino Chiesa,Luigi Duse,5.7
+Allan Dwan,George O'Brien,Virginia Valli,J. Farrell MacDonald,Dore Davidson,7.7
+Ewald André Dupont,Fritz Kortner,Elsa Wagner,Heinrich Schroth,Julia Serda,6.4
+Lutz Büscher,Hans Korte,Volkert Kraeft,Arthur Brauss,Sigmar Solbach,6.7
+Kevin Lincoln,Pete Meads,Kevin Lincoln,John V Duggan,Eliza V Jones,5.7
+Shane Van Dyke,Shane Van Dyke,Marie Westbrook,Bruce Davison,Brooke Burns,1.6
+Nino D'Angelo,Nino D'Angelo,Sabina Began,Giacomo Rizzo,Mauro Di Francesco,4.5
+Karen Dior,Janis Jones,Brent Cross,James Perry,Sharon Kane,5.5
+James David Walley,Elizabeth Ammann,Will Sexton,Brian Stampfl,J. Maki,4.1
+Nick Siegenthaler,Ryan X Lee,Richard C. Jones,Daniel Hershberger,Rommel Sulit,8.5
+Roger Michell,Julie Walters,Ciarán Hinds,Nuala O'Neill,James Loughran,6.6
+Paul Calinescu,Grigore Vasiliu-Birlic,Silvia Fulda,Kity Gheorghiu-Musatescu,Mitzura Arghezi,8.6
+Oscar Chan,Lee Williams,Adolf Hitler,Steve Luckert,Andy Webb,7.2
+Mitch Spinelli,Blade Baran,Tom Chapman,an Daniels,Dave Dodge,8.1
+William Malone,Stan var,Wendy Schaal,Lyman Ward,Robert Jaffe,4.2
+Dan Golden,Annie Sorell,Jeffrey Combs,Angus Scrimm,James Russo,2.9
+Todd Portugal,Steve Oedekerk,Mary Jo Keenen,Paul Greenberg,Rob Paulsen,6.9
+Vincent Sherman,Richard Burton,Robert Ryan,Martha Hyer,Jim Backus,6.4
+Mardaly Sjarif,Sujiwo Tejo,Meriam Bellina,Aldo Banar,Bombom Gumbira,3.2
+Armando de Boer,Fred van der Hilst,Don van Dijke,Chanella Hodge,Stef de Reuver,5.3
+William (II) Hale,Harry Andrews,David Battley,Ed Bishop,Tony Caunter,6.3
+Emir Kusturica,Boro Stjepanovic,Bogdan Diklic,Nada Djurevska,Zaim Muzaferija,6.3
+Edith (II) Becker,Victor Garber,Bob Ballard,Steven Biel,Daniel Allen Butler,7.1
+Joe Dante,Arsenio Hall,Donald F. Muhich,Monique Gabrielle,Lou Jacobi,6.1
+Grethe Bøe,Edvard Løvold Gaukstad,Yngve Berven,Gard B. Eidsvold,Ruben Eliassen,5.7
+Jerry Jameson,Jason Robards,Richard Jordan,David Selby,Anne Archer,4.7
+Veit Harlan,Heinrich George,Kristina Soderbaum,Paul Wegener,Raimund Schelcher,7.0

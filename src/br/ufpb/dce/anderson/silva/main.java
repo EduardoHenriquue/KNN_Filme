@@ -20,33 +20,11 @@ public class main {
 		List<Filme> filmesDeTeste = Leitor.getFilmesTeste(); // Pega os filmes de teste
 		leitor.converterDadosTeste(); // Converte os dados de teste em números
 		List<String> dadosDeTeste = Leitor.getDadosTeste();
-		
-//		for(int i=0; i<dadosDeTeste.size(); i++){
-//			
-//			System.out.println(dadosDeTeste.get(i));
-//				
-//			
-//		}
-		
-		KNN knn = new KNN(2,filmesDeTreinamento,dadosTeste);
-		
-		
-		
-		
-		
-		
-//		for(int i=0; i<floresTreinamento.size(); i++){
-//			System.out.println(floresTreinamento.get(i).getDadosDoFilme());
-//		}
-		
-//		List<Flor> floresTeste = leitor.carregarTeste("teste.csv");
-//		List<Integer> rotulosTeste = leitor.carregarRotulosTeste("rotulos-teste.txt");
-		
 
-//		KNN knn = new KNN(2,floresTreinamento,floresTeste);
-//		System.out.println(knn.porcentagemDeAcerto(knn.Classificador(), rotulosTeste)+"% de acerto!");
-		
-				
+		KNN knn = new KNN(50,filmesDeTreinamento,dadosDeTeste);
+
+		List<Double> list = knn.Classificador();
+
 		
 	}
 }

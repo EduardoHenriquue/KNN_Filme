@@ -8,14 +8,14 @@ import java.util.List;
 
 public class Gravador {
 
-	// APAGAR - Esse método vai ser responsável por escrever no arquivo os rótulos gerados
-	public static void gravar(List<Integer> rotulos , String nomeArquivo) throws IOException {
+	// APAGAR - Esse mï¿½todo vai ser responsï¿½vel por escrever no arquivo os rï¿½tulos gerados
+	public static void gravar(List<Double> rotulos , String nomeArquivo) throws IOException {
 		
 		BufferedWriter gravador = null;
 		try{
 			gravador = new BufferedWriter(new FileWriter(nomeArquivo));
-			for(Integer r: rotulos){
-				gravador.write(r+"\n");
+			for(Double r: rotulos){
+				gravador.write(r+" Estrela(s)\n");
 			}
 		} finally {
 			if(gravador != null){

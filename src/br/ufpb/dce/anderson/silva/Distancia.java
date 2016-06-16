@@ -13,13 +13,14 @@ public class Distancia implements Comparable<Distancia> {
 	public double getDistancia() {
 		return distancia;
 	}
-	public String getRotuloFilmeTreinamento() {
-		return filmeTreinamento.split(",")[filmeTreinamento.split(",").length-1];
+
+	public String getFilmeTreinamento() {
+		return filmeTreinamento;
 	}
 
 
 	public static double calcularDistancia(String filmeTreino, String filmeTeste){
-		
+
 		String[] filmeX = filmeTreino.split(",");
 		String[] filmeY = filmeTeste.split(",");
 		

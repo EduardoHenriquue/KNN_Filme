@@ -8,3 +8,9 @@ Christopher Nolan,Christian Bale,Michael Caine,Liam Neeson,Katie Holmes
 Tim Burton,Michael Keaton,JChris V Evans,Kim Basinger,Robert Wuhl
 Tim Burton,Scarlett Johansson,Danny DeVito,Michelle Pfeiffer,Christopher Walken
 Steven Spielberg,Tom Cruise,Dakota Fanning,Miranda Otto,Danny DeVito
+Hulusi OrkunEser,Ali Aslan,Asim Tuncay Aynur,Hasan Bayrak,Halis Bayraktaroglu
+Dan Consiglio,Larry Joe Campbell,Keegan-Michael Key,Johnny Ray Meeks,Danny McCarthy
+Joon-ho Bong,Chris Evans,Jamie Bell,Tilda Swinton,Ed Harris
+Sylvester Stallone,Sylvester Stallone,Jason Statham,Jet Li,Dolph Lundgren
+Brad Bird,Tom Cruise,Jeremy Renner,Simon Pegg,Paula Patton
+Duncan Jones,Travis Fimmel,Paula Patton,Ben Foster,Dominic Cooper

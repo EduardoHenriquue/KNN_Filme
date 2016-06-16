@@ -15,7 +15,7 @@ public class KNN{
 	private List<String> filmeTreinamento;
 	private List<String> filmesDeTeste;
 	private String nomeDoArquivo = "resultado.txt"; 
-	private float quantTotalDeFloresASeremRotuladas = 45;  
+
 	
 	public KNN(int valorK, List<String> filmeTreinamento, List<String> filmesDeTeste){
 		this.valorK = valorK;
@@ -37,9 +37,9 @@ public class KNN{
 	}
 	
 	//APAGAR - Lembrar direito desse m�todo/ Classificar r�tulo para cada flor de teste
-	public List<Integer> Classificador() throws IOException{
-		List<Integer> rotulos = new LinkedList<Integer>();
-		//v�o ser dois for o primeiro baseado na filme de teste e o de dentro o de treinamento;
+	public List<Double> Classificador() throws IOException{
+		List<Double> rotulos = new ArrayList<Double>();
+
 		for(int x=0; x<filmesDeTeste.size();x++){
 			List<Distancia> distancia = new ArrayList<Distancia>();
 			
@@ -53,11 +53,8 @@ public class KNN{
 			Collections.sort(distancia);
 			//PEGA AS DISTANCIAS DE ACORDO COM O VALOR DE K
 			List<Distancia> kProximos = distancia.subList(0, this.getValorK());
-			String rotulo = this.rotuloMaisFrequente(kProximos)+"";
-			this.filmesDeTeste.get(x).concat(rotulo);
-		
+
 			rotulos.add(this.rotuloMaisFrequente(kProximos));
-			System.out.println("Rotulo da "+x+": " + this.rotuloMaisFrequente(kProximos));
 		}
 		Gravador.gravar(rotulos, this.nomeDoArquivo);
 		
@@ -65,51 +62,46 @@ public class KNN{
 		
 	}
 	
-	public float porcentagemDeAcerto(List<Integer> rotulos, List<Integer> rotulosTeste){
-		float porcentagem = 0;
-		int count = 0;
-		for(int x=0; x<rotulos.size(); x++){
-			if(rotulos.get(x) == rotulosTeste.get(x)){
-				count ++;
-			}
-		}
 
-		System.out.println("count "+ count);
-		System.out.println("total de rotulos "+this.quantTotalDeFloresASeremRotuladas);
-		porcentagem = (count/ this.quantTotalDeFloresASeremRotuladas)*100;
-		System.out.println("porcentagem "+ porcentagem);
-		return porcentagem;
-	}
 	
 	//APAGAR - Lembrar melhor desse m�todo
-	public int rotuloMaisFrequente(List<Distancia> kProximos){
-		int rotulo0 = 0;
+	public double rotuloMaisFrequente(List<Distancia> kProximos){
 		int rotulo1 = 0;
 		int rotulo2 = 0;
+		int rotulo3 = 0;
+		int rotulo4 = 0;
+		int rotulo5 = 0;
 		//FAZ UM COUNT NOS ROTULOS QUE MAIS APARECEM DE ACORDO COM A DISTANCIA
 		//ESPECIFICADA PELO VALOR K
 		for(int k=0; k<kProximos.size(); k++){
-			if(kProximos.get(k).getRotuloFilmeTreinamento() == "0"){
-				rotulo0 ++;
-			}else if(kProximos.get(k).getRotuloFilmeTreinamento() == "1"){
-				rotulo1 ++;
-			}else{
-				rotulo2 ++;
+			int tamanho = kProximos.get(k).getFilmeTreinamento().split(",").length;
+
+			double kRotulo = Double.parseDouble(kProximos.get(k).getFilmeTreinamento().split(",")[tamanho-1]);
+			if(kRotulo >= 0 && kRotulo <= 2){
+				rotulo1++;
+			}else if(kRotulo > 2 && kRotulo <= 4){
+				rotulo2++;
+			}else if(kRotulo > 4 && kRotulo <= 6){
+				rotulo3++;
+			} else if(kRotulo > 6 && kRotulo <= 8){
+				rotulo4 ++;
+			} else {
+				rotulo5++;
 			}
 		}
-		int rotulo = 0;
-		
-		if(rotulo0 > rotulo1 && rotulo0 > rotulo2){
-			rotulo = 0;
-		}else if(rotulo1 > rotulo0 && rotulo1 > rotulo2){
-			rotulo = 1;
-		}else if(rotulo2 > rotulo0 && rotulo2 > rotulo1){
-			rotulo = 2;
-		}else{
-			Random r = new Random();
-			rotulo = r.nextInt(3);
+
+
+		if(rotulo1 > rotulo2 && rotulo1 > rotulo3 && rotulo1 > rotulo4 && rotulo1 > rotulo5 ){
+			return 1;
+		} else if(rotulo2 > rotulo1 && rotulo2 > rotulo3 && rotulo2 > rotulo4 && rotulo2 > rotulo5){
+			return 2;
+		} else if(rotulo3 > rotulo1 && rotulo3 > rotulo2 && rotulo3 > rotulo4 && rotulo3 > rotulo5){
+			return 3;
+		} else if(rotulo4 > rotulo1 && rotulo4 > rotulo2 && rotulo4 > rotulo3 && rotulo4 > rotulo5){
+			return 4;
+		} else{
+			return 5;
 		}
-		return rotulo;
 	}
 	
 	
